@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+	<xs:element name="StarTrek" type="TypeStarTrek"/>
+	
+	<xs:complexType name="TypeStarTrek">
+		<xs:sequence>
+			<xs:element maxOccurs="6" minOccurs="6" name="Series" type="TypeSeries"/>
+		</xs:sequence>
+	</xs:complexType>
+
+    <xs:complexType name="TypeSeries">
+		<xs:sequence>
+			<xs:element maxOccurs="7" minOccurs="1" name="Season" type="TypeSeason"/>
+		</xs:sequence>
+        <xs:attribute name="code" type="SeriesCode" use="required"/>
+        <xs:attribute name="name" type="StringNonEmpty" use="required"/>
+	</xs:complexType>
+    
+    <xs:complexType name="TypeSeason">
+		<xs:sequence>
+			<xs:element maxOccurs="30" minOccurs="0" name="Episode" type="TypeEpisode"/>
+		</xs:sequence>
+		<xs:attribute name="number" type="SeasonNumber" use="required"/>
+    </xs:complexType>
+    
+    <xs:complexType name="TypeEpisode">
+		<xs:attribute name="number" type="EpisodeNumber" use="required"/>
+		<xs:attribute name="airdate" type="DateEmpty" use="required"/>
+		<xs:attribute name="name" type="StringNonEmpty" use="required"/>
+	</xs:complexType>
+	
+	<xs:simpleType name="StringNonEmpty">
+		<xs:restriction base="xs:string">
+			<xs:minLength value="1"/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<xs:simpleType name="DateEmpty">
+		<xs:union memberTypes="Empty xs:date"/>
+	</xs:simpleType>
+	
+    <xs:simpleType name="EpisodeNumber">
+		<xs:restriction base="xs:integer">
+			<xs:minInclusive value="1"/>
+			<xs:maxInclusive value="30"/>
+		</xs:restriction>
+	</xs:simpleType>
+    
+    <xs:simpleType name="SeasonNumber">
+		<xs:restriction base="xs:integer">
+			<xs:minInclusive value="1"/>
+			<xs:maxInclusive value="7"/>
+		</xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="SeriesCode">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="TOS"/>
+			<xs:enumeration value="TAS"/>
+			<xs:enumeration value="TNG"/>
+			<xs:enumeration value="DS9"/>
+			<xs:enumeration value="VOY"/>
+			<xs:enumeration value="ENT"/>
+		</xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="Empty">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value=""/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+</xs:schema>
