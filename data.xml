@@ -835,9 +835,15 @@
         name="Magic to Make the Sanest Man Go Mad" />
       <Episode number="8" airdate="2017-11-05" name="Si Vis Pacem, Para Bellum" />
       <Episode number="9" airdate="2017-11-12" name="Into the Forest I Go" />
+      <Episode number="10" airdate="2018-01-07" name="Despite Yourself" />
+      <Episode number="11" airdate="2018-01-14" name="The Wolf Inside" />
+      <Episode number="12" airdate="2018-01-21" name="Vaulting Ambition" />
+      <Episode number="13" airdate="2018-01-28" name="What's Past is Prologue" />
+      <Episode number="14" airdate="2018-02-04"
+        name="The War Without, The War Within" />
+      <Episode number="15" airdate="2018-02-11" name="Will You Take My Hand?" />
     </Season>
     <Season number="2" />
-
   </Series>
 
 </StarTrek>
