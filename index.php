@@ -118,20 +118,20 @@ class Episode
     public $name = '';
     
     /**
-     * The episode's airdate in UNIX timestamp format
+     * The episode's original airdate
      * 
-     * @var int
+     * @var \DateTime
      */
-    public $airdate = 0;
+    public $airdate = null;
 
     /**
      * Creates a new episode
      * 
-     * @param int    $number  the number 
-     * @param string $name    the name
-     * @param int    $airdate the airdate in UNIX timestamp format
+     * @param int       $number  the number 
+     * @param string    $name    the name
+     * @param \DateTime $airdate the original airdate
      */
-    public function __construct(int $number, string $name, int $airdate) 
+    public function __construct(int $number, string $name, \DateTime $airdate) 
     {
         $this->number = $number;
         $this->name = $name;
@@ -156,7 +156,7 @@ if (@$x->load($p.'/data.xml') && @$x->schemaValidate($p.'/schema.xsd')) {
                 $ep = new Episode(
                     (int)$episode->getAttribute('number'),
                     (string)$episode->getAttribute('name'),
-                    (int)strtotime($episode->getAttribute('airdate'))
+                    new \DateTime($episode->getAttribute('airdate'))
                 );
                 $se->episodes[] = $ep;
             }
