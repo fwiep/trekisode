@@ -12,7 +12,7 @@
     <xs:sequence>
       <xs:element maxOccurs="7" minOccurs="7" name="Series"
         type="TypeSeries">
-        <xs:unique name="uniqueSeasonNUmber">
+        <xs:unique name="uniqueSeasonNumber">
           <xs:selector xpath="./Season" />
           <xs:field xpath="@number" />
         </xs:unique>
