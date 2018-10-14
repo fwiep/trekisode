@@ -68,16 +68,25 @@ class Series
 class Season
 {
     /**
+     * The season's sequential number
+     * 
      * @var int
      */
     public $number = 0;
     
     /**
-     * @var array
+     * The season's episodes
+     * 
+     * @var Episode[]
      */
     public $episodes = array();
     
-    public function __construct($number) 
+    /**
+     * Creates a new Season
+     * 
+     * @param int $number the number
+     */
+    public function __construct(int $number) 
     {
         $this->number = $number;
     }
@@ -95,21 +104,34 @@ class Season
 class Episode
 {
     /**
+     * The episodes' sequential number
+     * 
      * @var int
      */
     public $number = 0;
     
     /**
+     * The full name
+     * 
      * @var string
      */
     public $name = '';
     
     /**
+     * The episode's airdate in UNIX timestamp format
+     * 
      * @var int
      */
     public $airdate = 0;
- 
-    public function __construct($number, $name, $airdate) 
+
+    /**
+     * Creates a new episode
+     * 
+     * @param int    $number  the number 
+     * @param string $name    the name
+     * @param int    $airdate the airdate in UNIX timestamp format
+     */
+    public function __construct(int $number, string $name, int $airdate) 
     {
         $this->number = $number;
         $this->name = $name;
