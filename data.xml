@@ -5,124 +5,206 @@
   <Series code="TOS" name="The Original Series">
     <Season number="1">
       <Episode number="0" airdate="1988-10-04" name="The Cage" />
-      <Episode number="1" airdate="1966-09-22" name="Where No Man Has Gone Before" />
-      <Episode number="2" airdate="1966-11-10" name="The Corbomite Maneuver" />
-      <Episode number="3" airdate="1966-10-13" name="Mudd's Women" />
-      <Episode number="4" airdate="1966-10-06" name="The Enemy Within" />
-      <Episode number="5" airdate="1966-09-08" name="The Man Trap" />
-      <Episode number="6" airdate="1966-09-29" name="The Naked Time" />
+      <Episode number="1" airdate="1966-09-22"
+        name="Where No Man Has Gone Before" />
+      <Episode number="2" airdate="1966-11-10"
+        name="The Corbomite Maneuver" />
+      <Episode number="3" airdate="1966-10-13"
+        name="Mudd's Women" />
+      <Episode number="4" airdate="1966-10-06"
+        name="The Enemy Within" />
+      <Episode number="5" airdate="1966-09-08"
+        name="The Man Trap" />
+      <Episode number="6" airdate="1966-09-29"
+        name="The Naked Time" />
       <Episode number="7" airdate="1966-09-15" name="Charlie X" />
-      <Episode number="8" airdate="1966-12-13" name="Balance of Terror" />
+      <Episode number="8" airdate="1966-12-13"
+        name="Balance of Terror" />
       <Episode number="9" airdate="1966-10-20"
         name="What Are Little Girls Made Of?" />
-      <Episode number="10" airdate="1966-11-03" name="Dagger of the Mind" />
+      <Episode number="10" airdate="1966-11-03"
+        name="Dagger of the Mind" />
       <Episode number="11" airdate="1966-10-27" name="Miri" />
-      <Episode number="12" airdate="1966-12-08" name="The Conscience of the King" />
-      <Episode number="13" airdate="1967-01-05" name="The Galileo Seven" />
-      <Episode number="14" airdate="1967-02-02" name="Court Martial" />
-      <Episode number="15" airdate="1966-11-17" name="The Menagerie, Part I" />
-      <Episode number="16" airdate="1966-11-24" name="The Menagerie, Part II" />
-      <Episode number="17" airdate="1966-12-29" name="Shore Leave" />
-      <Episode number="18" airdate="1967-01-12" name="The Squire of Gothos" />
+      <Episode number="12" airdate="1966-12-08"
+        name="The Conscience of the King" />
+      <Episode number="13" airdate="1967-01-05"
+        name="The Galileo Seven" />
+      <Episode number="14" airdate="1967-02-02"
+        name="Court Martial" />
+      <Episode number="15" airdate="1966-11-17"
+        name="The Menagerie, Part I" />
+      <Episode number="16" airdate="1966-11-24"
+        name="The Menagerie, Part II" />
+      <Episode number="17" airdate="1966-12-29"
+        name="Shore Leave" />
+      <Episode number="18" airdate="1967-01-12"
+        name="The Squire of Gothos" />
       <Episode number="19" airdate="1967-01-19" name="Arena" />
-      <Episode number="20" airdate="1967-03-30" name="The Alternative Factor" />
-      <Episode number="21" airdate="1967-01-26" name="Tomorrow is Yesterday" />
-      <Episode number="22" airdate="1967-02-09" name="The Return of the Archons" />
-      <Episode number="23" airdate="1967-02-23" name="A Taste of Armageddon" />
-      <Episode number="24" airdate="1967-02-16" name="Space Seed" />
-      <Episode number="25" airdate="1967-03-02" name="This Side of Paradise" />
-      <Episode number="26" airdate="1967-03-09" name="The Devil in the Dark" />
-      <Episode number="27" airdate="1967-03-23" name="Errand of Mercy" />
+      <Episode number="20" airdate="1967-03-30"
+        name="The Alternative Factor" />
+      <Episode number="21" airdate="1967-01-26"
+        name="Tomorrow is Yesterday" />
+      <Episode number="22" airdate="1967-02-09"
+        name="The Return of the Archons" />
+      <Episode number="23" airdate="1967-02-23"
+        name="A Taste of Armageddon" />
+      <Episode number="24" airdate="1967-02-16"
+        name="Space Seed" />
+      <Episode number="25" airdate="1967-03-02"
+        name="This Side of Paradise" />
+      <Episode number="26" airdate="1967-03-09"
+        name="The Devil in the Dark" />
+      <Episode number="27" airdate="1967-03-23"
+        name="Errand of Mercy" />
       <Episode number="28" airdate="1967-04-06"
         name="The City on the Edge of Forever" />
-      <Episode number="29" airdate="1967-04-13" name="Operation -- Annihilate!" />
+      <Episode number="29" airdate="1967-04-13"
+        name="Operation -- Annihilate!" />
     </Season>
     <Season number="2">
       <Episode number="1" airdate="1967-10-27" name="Catspaw" />
-      <Episode number="2" airdate="1967-11-10" name="Metamorphosis" />
-      <Episode number="3" airdate="1967-12-01" name="Friday's Child" />
-      <Episode number="4" airdate="1967-09-22" name="Who Mourns for Adonais?" />
+      <Episode number="2" airdate="1967-11-10"
+        name="Metamorphosis" />
+      <Episode number="3" airdate="1967-12-01"
+        name="Friday's Child" />
+      <Episode number="4" airdate="1967-09-22"
+        name="Who Mourns for Adonais?" />
       <Episode number="5" airdate="1967-09-15" name="Amok Time" />
-      <Episode number="6" airdate="1967-10-20" name="The Doomsday Machine" />
-      <Episode number="7" airdate="1967-12-22" name="Wolf in the Fold" />
-      <Episode number="8" airdate="1967-09-29" name="The Changeling" />
+      <Episode number="6" airdate="1967-10-20"
+        name="The Doomsday Machine" />
+      <Episode number="7" airdate="1967-12-22"
+        name="Wolf in the Fold" />
+      <Episode number="8" airdate="1967-09-29"
+        name="The Changeling" />
       <Episode number="9" airdate="1967-10-13" name="The Apple" />
-      <Episode number="10" airdate="1967-10-06" name="Mirror, Mirror" />
-      <Episode number="11" airdate="1967-12-08" name="The Deadly Years" />
+      <Episode number="10" airdate="1967-10-06"
+        name="Mirror, Mirror" />
+      <Episode number="11" airdate="1967-12-08"
+        name="The Deadly Years" />
       <Episode number="12" airdate="1967-11-03" name="I, Mudd" />
-      <Episode number="13" airdate="1967-12-29" name="The Trouble with Tribbles" />
-      <Episode number="14" airdate="1968-03-15" name="Bread and Circuses" />
-      <Episode number="15" airdate="1967-11-17" name="Journey to Babel" />
-      <Episode number="16" airdate="1968-02-02" name="A Private Little War" />
-      <Episode number="17" airdate="1968-01-05" name="The Gamesters of Triskelion" />
+      <Episode number="13" airdate="1967-12-29"
+        name="The Trouble with Tribbles" />
+      <Episode number="14" airdate="1968-03-15"
+        name="Bread and Circuses" />
+      <Episode number="15" airdate="1967-11-17"
+        name="Journey to Babel" />
+      <Episode number="16" airdate="1968-02-02"
+        name="A Private Little War" />
+      <Episode number="17" airdate="1968-01-05"
+        name="The Gamesters of Triskelion" />
       <Episode number="18" airdate="1967-12-15" name="Obsession" />
-      <Episode number="19" airdate="1968-01-19" name="The Immunity Syndrome" />
-      <Episode number="20" airdate="1968-01-12" name="A Piece of the Action" />
-      <Episode number="21" airdate="1968-02-23" name="By Any Other Name" />
-      <Episode number="22" airdate="1968-02-09" name="Return to Tomorrow" />
-      <Episode number="23" airdate="1968-02-16" name="Patterns of Force" />
-      <Episode number="24" airdate="1968-03-08" name="The Ultimate Computer" />
-      <Episode number="25" airdate="1968-03-01" name="The Omega Glory" />
-      <Episode number="26" airdate="1968-03-29" name="Assignment: Earth" />
+      <Episode number="19" airdate="1968-01-19"
+        name="The Immunity Syndrome" />
+      <Episode number="20" airdate="1968-01-12"
+        name="A Piece of the Action" />
+      <Episode number="21" airdate="1968-02-23"
+        name="By Any Other Name" />
+      <Episode number="22" airdate="1968-02-09"
+        name="Return to Tomorrow" />
+      <Episode number="23" airdate="1968-02-16"
+        name="Patterns of Force" />
+      <Episode number="24" airdate="1968-03-08"
+        name="The Ultimate Computer" />
+      <Episode number="25" airdate="1968-03-01"
+        name="The Omega Glory" />
+      <Episode number="26" airdate="1968-03-29"
+        name="Assignment: Earth" />
     </Season>
     <Season number="3">
-      <Episode number="1" airdate="1968-10-25" name="Spectre of the Gun" />
-      <Episode number="2" airdate="1968-12-20" name="Elaan of Troyius" />
-      <Episode number="3" airdate="1968-10-04" name="The Paradise Syndrome" />
-      <Episode number="4" airdate="1968-09-27" name="The Enterprise Incident" />
-      <Episode number="5" airdate="1968-10-11" name="And the Children Shall Lead" />
-      <Episode number="6" airdate="1968-09-20" name="Spock's Brain" />
-      <Episode number="7" airdate="1968-10-18" name="Is There in Truth No Beauty?" />
+      <Episode number="1" airdate="1968-10-25"
+        name="Spectre of the Gun" />
+      <Episode number="2" airdate="1968-12-20"
+        name="Elaan of Troyius" />
+      <Episode number="3" airdate="1968-10-04"
+        name="The Paradise Syndrome" />
+      <Episode number="4" airdate="1968-09-27"
+        name="The Enterprise Incident" />
+      <Episode number="5" airdate="1968-10-11"
+        name="And the Children Shall Lead" />
+      <Episode number="6" airdate="1968-09-20"
+        name="Spock's Brain" />
+      <Episode number="7" airdate="1968-10-18"
+        name="Is There in Truth No Beauty?" />
       <Episode number="8" airdate="1968-12-06" name="The Empath" />
-      <Episode number="9" airdate="1968-11-15" name="The Tholian Web" />
+      <Episode number="9" airdate="1968-11-15"
+        name="The Tholian Web" />
       <Episode number="10" airdate="1968-11-08"
         name="For the World is Hollow and I Have Touched the Sky" />
-      <Episode number="11" airdate="1968-11-01" name="Day of the Dove" />
-      <Episode number="12" airdate="1968-11-22" name="Plato's Stepchildren" />
-      <Episode number="13" airdate="1968-11-29" name="Wink of an Eye" />
-      <Episode number="14" airdate="1969-01-24" name="That Which Survives" />
+      <Episode number="11" airdate="1968-11-01"
+        name="Day of the Dove" />
+      <Episode number="12" airdate="1968-11-22"
+        name="Plato's Stepchildren" />
+      <Episode number="13" airdate="1968-11-29"
+        name="Wink of an Eye" />
+      <Episode number="14" airdate="1969-01-24"
+        name="That Which Survives" />
       <Episode number="15" airdate="1969-01-10"
         name="Let That Be Your Last Battlefield" />
-      <Episode number="16" airdate="1969-01-03" name="Whom Gods Destroy" />
-      <Episode number="17" airdate="1969-01-17" name="The Mark of Gideon" />
-      <Episode number="18" airdate="1969-01-31" name="The Lights of Zetar" />
-      <Episode number="19" airdate="1969-02-28" name="The Cloud Minders" />
-      <Episode number="20" airdate="1969-02-21" name="The Way to Eden" />
-      <Episode number="21" airdate="1969-02-14" name="Requiem for Methuselah" />
-      <Episode number="22" airdate="1969-03-07" name="The Savage Curtain" />
-      <Episode number="23" airdate="1969-03-14" name="All Our Yesterdays" />
-      <Episode number="24" airdate="1969-06-03" name="Turnabout Intruder" />
+      <Episode number="16" airdate="1969-01-03"
+        name="Whom Gods Destroy" />
+      <Episode number="17" airdate="1969-01-17"
+        name="The Mark of Gideon" />
+      <Episode number="18" airdate="1969-01-31"
+        name="The Lights of Zetar" />
+      <Episode number="19" airdate="1969-02-28"
+        name="The Cloud Minders" />
+      <Episode number="20" airdate="1969-02-21"
+        name="The Way to Eden" />
+      <Episode number="21" airdate="1969-02-14"
+        name="Requiem for Methuselah" />
+      <Episode number="22" airdate="1969-03-07"
+        name="The Savage Curtain" />
+      <Episode number="23" airdate="1969-03-14"
+        name="All Our Yesterdays" />
+      <Episode number="24" airdate="1969-06-03"
+        name="Turnabout Intruder" />
     </Season>
   </Series>
 
   <Series code="TAS" name="The Animated Series">
     <Season number="1">
-      <Episode number="1" airdate="1973-09-08" name="Beyond the Farthest Star" />
+      <Episode number="1" airdate="1973-09-08"
+        name="Beyond the Farthest Star" />
       <Episode number="2" airdate="1973-09-15" name="Yesteryear" />
       <Episode number="3" airdate="1973-09-22"
         name="One of Our Planets Is Missing" />
-      <Episode number="4" airdate="1973-09-29" name="The Lorelei Signal" />
-      <Episode number="5" airdate="1973-10-06" name="More Tribbles, More Troubles" />
-      <Episode number="6" airdate="1973-10-13" name="The Survivor" />
-      <Episode number="7" airdate="1973-10-20" name="The Infinite Vulcan" />
-      <Episode number="8" airdate="1973-10-27" name="The Magicks of Megas-Tu" />
-      <Episode number="9" airdate="1973-11-03" name="Once Upon a Planet" />
-      <Episode number="10" airdate="1973-11-10" name="Mudd's Passion" />
-      <Episode number="11" airdate="1973-11-17" name="The Terratin Incident" />
-      <Episode number="12" airdate="1973-11-24" name="The Time Trap" />
-      <Episode number="13" airdate="1973-12-01" name="The Ambergris Element" />
-      <Episode number="14" airdate="1973-12-15" name="The Slaver Weapon" />
-      <Episode number="15" airdate="1974-01-05" name="The Eye of the Beholder" />
+      <Episode number="4" airdate="1973-09-29"
+        name="The Lorelei Signal" />
+      <Episode number="5" airdate="1973-10-06"
+        name="More Tribbles, More Troubles" />
+      <Episode number="6" airdate="1973-10-13"
+        name="The Survivor" />
+      <Episode number="7" airdate="1973-10-20"
+        name="The Infinite Vulcan" />
+      <Episode number="8" airdate="1973-10-27"
+        name="The Magicks of Megas-Tu" />
+      <Episode number="9" airdate="1973-11-03"
+        name="Once Upon a Planet" />
+      <Episode number="10" airdate="1973-11-10"
+        name="Mudd's Passion" />
+      <Episode number="11" airdate="1973-11-17"
+        name="The Terratin Incident" />
+      <Episode number="12" airdate="1973-11-24"
+        name="The Time Trap" />
+      <Episode number="13" airdate="1973-12-01"
+        name="The Ambergris Element" />
+      <Episode number="14" airdate="1973-12-15"
+        name="The Slaver Weapon" />
+      <Episode number="15" airdate="1974-01-05"
+        name="The Eye of the Beholder" />
       <Episode number="16" airdate="1974-01-12" name="The Jihad" />
     </Season>
     <Season number="2">
-      <Episode number="1" airdate="1974-09-07" name="The Pirates of Orion" />
+      <Episode number="1" airdate="1974-09-07"
+        name="The Pirates of Orion" />
       <Episode number="2" airdate="1974-09-14" name="Bem" />
-      <Episode number="3" airdate="1974-09-21" name="The Practical Joker" />
+      <Episode number="3" airdate="1974-09-21"
+        name="The Practical Joker" />
       <Episode number="4" airdate="1974-09-28" name="Albatross" />
       <Episode number="5" airdate="1974-10-05"
         name="How Sharper Than a Serpent's Tooth" />
-      <Episode number="6" airdate="1974-10-12" name="The Counter-Clock Incident" />
+      <Episode number="6" airdate="1974-10-12"
+        name="The Counter-Clock Incident" />
     </Season>
   </Series>
 
@@ -132,81 +214,132 @@
         name="Encounter at Farpoint, Part I" />
       <Episode number="2" airdate="1987-09-28"
         name="Encounter at Farpoint, Part II" />
-      <Episode number="3" airdate="1987-10-05" name="The Naked Now" />
-      <Episode number="4" airdate="1987-10-12" name="Code of Honor" />
-      <Episode number="5" airdate="1987-10-19" name="The Last Outpost" />
-      <Episode number="6" airdate="1987-10-26" name="Where No One Has Gone Before" />
-      <Episode number="7" airdate="1987-11-02" name="Lonely Among Us" />
+      <Episode number="3" airdate="1987-10-05"
+        name="The Naked Now" />
+      <Episode number="4" airdate="1987-10-12"
+        name="Code of Honor" />
+      <Episode number="5" airdate="1987-10-19"
+        name="The Last Outpost" />
+      <Episode number="6" airdate="1987-10-26"
+        name="Where No One Has Gone Before" />
+      <Episode number="7" airdate="1987-11-02"
+        name="Lonely Among Us" />
       <Episode number="8" airdate="1987-11-09" name="Justice" />
       <Episode number="9" airdate="1987-11-16" name="The Battle" />
-      <Episode number="10" airdate="1987-11-23" name="Hide and Q" />
+      <Episode number="10" airdate="1987-11-23"
+        name="Hide and Q" />
       <Episode number="11" airdate="1987-11-30" name="Haven" />
-      <Episode number="12" airdate="1988-01-11" name="The Big Goodbye" />
+      <Episode number="12" airdate="1988-01-11"
+        name="The Big Goodbye" />
       <Episode number="13" airdate="1988-01-18" name="Datalore" />
       <Episode number="14" airdate="1988-01-25" name="Angel One" />
       <Episode number="15" airdate="1988-02-01" name="11001001" />
-      <Episode number="16" airdate="1988-02-08" name="Too Short a Season" />
-      <Episode number="17" airdate="1988-02-15" name="When The Bough Breaks" />
+      <Episode number="16" airdate="1988-02-08"
+        name="Too Short a Season" />
+      <Episode number="17" airdate="1988-02-15"
+        name="When The Bough Breaks" />
       <Episode number="18" airdate="1988-02-22" name="Home Soil" />
-      <Episode number="19" airdate="1988-03-14" name="Coming of Age" />
-      <Episode number="20" airdate="1988-03-21" name="Heart of Glory" />
-      <Episode number="21" airdate="1988-04-11" name="The Arsenal of Freedom" />
+      <Episode number="19" airdate="1988-03-14"
+        name="Coming of Age" />
+      <Episode number="20" airdate="1988-03-21"
+        name="Heart of Glory" />
+      <Episode number="21" airdate="1988-04-11"
+        name="The Arsenal of Freedom" />
       <Episode number="22" airdate="1988-04-18" name="Symbiosis" />
-      <Episode number="23" airdate="1988-04-25" name="Skin of Evil" />
-      <Episode number="24" airdate="1988-05-02" name="We'll Always Have Paris" />
-      <Episode number="25" airdate="1988-05-09" name="Conspiracy" />
-      <Episode number="26" airdate="1988-05-16" name="The Neutral Zone" />
+      <Episode number="23" airdate="1988-04-25"
+        name="Skin of Evil" />
+      <Episode number="24" airdate="1988-05-02"
+        name="We'll Always Have Paris" />
+      <Episode number="25" airdate="1988-05-09"
+        name="Conspiracy" />
+      <Episode number="26" airdate="1988-05-16"
+        name="The Neutral Zone" />
     </Season>
     <Season number="2">
       <Episode number="1" airdate="1988-11-21" name="The Child" />
-      <Episode number="2" airdate="1988-11-28" name="Where Silence Has Lease" />
-      <Episode number="3" airdate="1988-12-05" name="Elementary, Dear Data" />
-      <Episode number="4" airdate="1988-12-12" name="The Outrageous Okona" />
-      <Episode number="5" airdate="1989-01-09" name="Loud As A Whisper" />
-      <Episode number="6" airdate="1989-01-23" name="The Schizoid Man" />
-      <Episode number="7" airdate="1989-01-30" name="Unnatural Selection" />
-      <Episode number="8" airdate="1989-02-06" name="A Matter Of Honor" />
-      <Episode number="9" airdate="1989-02-13" name="The Measure Of A Man" />
-      <Episode number="10" airdate="1989-02-20" name="The Dauphin" />
+      <Episode number="2" airdate="1988-11-28"
+        name="Where Silence Has Lease" />
+      <Episode number="3" airdate="1988-12-05"
+        name="Elementary, Dear Data" />
+      <Episode number="4" airdate="1988-12-12"
+        name="The Outrageous Okona" />
+      <Episode number="5" airdate="1989-01-09"
+        name="Loud As A Whisper" />
+      <Episode number="6" airdate="1989-01-23"
+        name="The Schizoid Man" />
+      <Episode number="7" airdate="1989-01-30"
+        name="Unnatural Selection" />
+      <Episode number="8" airdate="1989-02-06"
+        name="A Matter Of Honor" />
+      <Episode number="9" airdate="1989-02-13"
+        name="The Measure Of A Man" />
+      <Episode number="10" airdate="1989-02-20"
+        name="The Dauphin" />
       <Episode number="11" airdate="1989-03-20" name="Contagion" />
-      <Episode number="12" airdate="1989-03-27" name="The Royale" />
-      <Episode number="13" airdate="1989-04-03" name="Time Squared" />
-      <Episode number="14" airdate="1989-04-24" name="The Icarus Factor" />
+      <Episode number="12" airdate="1989-03-27"
+        name="The Royale" />
+      <Episode number="13" airdate="1989-04-03"
+        name="Time Squared" />
+      <Episode number="14" airdate="1989-04-24"
+        name="The Icarus Factor" />
       <Episode number="15" airdate="1989-05-01" name="Pen Pals" />
       <Episode number="16" airdate="1989-05-08" name="Q Who" />
-      <Episode number="17" airdate="1989-05-15" name="Samaritan Snare" />
-      <Episode number="18" airdate="1989-05-22" name="Up The Long Ladder" />
+      <Episode number="17" airdate="1989-05-15"
+        name="Samaritan Snare" />
+      <Episode number="18" airdate="1989-05-22"
+        name="Up The Long Ladder" />
       <Episode number="19" airdate="1989-06-19" name="Manhunt" />
-      <Episode number="20" airdate="1989-06-29" name="The Emissary" />
-      <Episode number="21" airdate="1989-07-10" name="Peak Performance" />
-      <Episode number="22" airdate="1989-07-17" name="Shades of Gray" />
+      <Episode number="20" airdate="1989-06-29"
+        name="The Emissary" />
+      <Episode number="21" airdate="1989-07-10"
+        name="Peak Performance" />
+      <Episode number="22" airdate="1989-07-17"
+        name="Shades of Gray" />
     </Season>
     <Season number="3">
       <Episode number="1" airdate="1989-09-25" name="Evolution" />
-      <Episode number="2" airdate="1989-10-02" name="The Ensigns of Command" />
-      <Episode number="3" airdate="1989-10-09" name="The Survivors" />
-      <Episode number="4" airdate="1989-10-16" name="Who Watches The Watchers" />
-      <Episode number="5" airdate="1989-10-23" name="The Bonding" />
+      <Episode number="2" airdate="1989-10-02"
+        name="The Ensigns of Command" />
+      <Episode number="3" airdate="1989-10-09"
+        name="The Survivors" />
+      <Episode number="4" airdate="1989-10-16"
+        name="Who Watches The Watchers" />
+      <Episode number="5" airdate="1989-10-23"
+        name="The Bonding" />
       <Episode number="6" airdate="1989-10-30" name="Booby Trap" />
       <Episode number="7" airdate="1989-11-06" name="The Enemy" />
       <Episode number="8" airdate="1989-11-13" name="The Price" />
-      <Episode number="9" airdate="1989-11-20" name="The Vengeance Factor" />
-      <Episode number="10" airdate="1990-01-01" name="The Defector" />
-      <Episode number="11" airdate="1990-01-08" name="The Hunted" />
-      <Episode number="12" airdate="1990-01-29" name="The High Ground" />
+      <Episode number="9" airdate="1989-11-20"
+        name="The Vengeance Factor" />
+      <Episode number="10" airdate="1990-01-01"
+        name="The Defector" />
+      <Episode number="11" airdate="1990-01-08"
+        name="The Hunted" />
+      <Episode number="12" airdate="1990-01-29"
+        name="The High Ground" />
       <Episode number="13" airdate="1990-02-05" name="Deja Q" />
-      <Episode number="14" airdate="1990-02-12" name="A Matter of Perspective" />
-      <Episode number="15" airdate="1990-02-19" name="Yesterday's Enterprise" />
-      <Episode number="16" airdate="1990-03-12" name="The Offspring" />
-      <Episode number="17" airdate="1990-03-19" name="Sins of the Father" />
-      <Episode number="18" airdate="1990-03-26" name="Allegiance" />
-      <Episode number="19" airdate="1990-04-02" name="Captain's Holiday" />
+      <Episode number="14" airdate="1990-02-12"
+        name="A Matter of Perspective" />
+      <Episode number="15" airdate="1990-02-19"
+        name="Yesterday's Enterprise" />
+      <Episode number="16" airdate="1990-03-12"
+        name="The Offspring" />
+      <Episode number="17" airdate="1990-03-19"
+        name="Sins of the Father" />
+      <Episode number="18" airdate="1990-03-26"
+        name="Allegiance" />
+      <Episode number="19" airdate="1990-04-02"
+        name="Captain's Holiday" />
       <Episode number="20" airdate="1990-04-23" name="Tin Man" />
-      <Episode number="21" airdate="1990-04-30" name="Hollow Pursuits" />
-      <Episode number="22" airdate="1990-05-07" name="The Most Toys" />
+      <Episode number="21" airdate="1990-04-30"
+        name="Hollow Pursuits" />
+      <Episode number="22" airdate="1990-05-07"
+        name="The Most Toys" />
       <Episode number="23" airdate="1990-05-14" name="Sarek" />
-      <Episode number="24" airdate="1990-05-28" name="Ménage à Troi" />
-      <Episode number="25" airdate="1990-06-04" name="Transfigurations" />
+      <Episode number="24" airdate="1990-05-28"
+        name="Ménage à Troi" />
+      <Episode number="25" airdate="1990-06-04"
+        name="Transfigurations" />
       <Episode number="26" airdate="1990-06-18"
         name="The Best of Both Worlds, Part I" />
     </Season>
@@ -215,113 +348,179 @@
         name="The Best of Both Worlds, Part II" />
       <Episode number="2" airdate="1990-10-01" name="Family" />
       <Episode number="3" airdate="1990-10-08" name="Brothers" />
-      <Episode number="4" airdate="1990-10-15" name="Suddenly Human" />
-      <Episode number="5" airdate="1990-10-22" name="Remember Me" />
+      <Episode number="4" airdate="1990-10-15"
+        name="Suddenly Human" />
+      <Episode number="5" airdate="1990-10-22"
+        name="Remember Me" />
       <Episode number="6" airdate="1990-10-29" name="Legacy" />
       <Episode number="7" airdate="1990-11-05" name="Reunion" />
-      <Episode number="8" airdate="1990-11-12" name="Future Imperfect" />
-      <Episode number="9" airdate="1990-11-19" name="Final Mission" />
+      <Episode number="8" airdate="1990-11-12"
+        name="Future Imperfect" />
+      <Episode number="9" airdate="1990-11-19"
+        name="Final Mission" />
       <Episode number="10" airdate="1990-12-31" name="The Loss" />
-      <Episode number="11" airdate="1991-01-07" name="Data's Day" />
-      <Episode number="12" airdate="1991-01-28" name="The Wounded" />
-      <Episode number="13" airdate="1991-02-04" name="Devil's Due" />
+      <Episode number="11" airdate="1991-01-07"
+        name="Data's Day" />
+      <Episode number="12" airdate="1991-01-28"
+        name="The Wounded" />
+      <Episode number="13" airdate="1991-02-04"
+        name="Devil's Due" />
       <Episode number="14" airdate="1991-02-11" name="Clues" />
-      <Episode number="15" airdate="1991-02-18" name="First Contact" />
-      <Episode number="16" airdate="1991-03-11" name="Galaxy's Child" />
-      <Episode number="17" airdate="1991-03-18" name="Night Terrors" />
-      <Episode number="18" airdate="1991-03-25" name="Identity Crisis" />
-      <Episode number="19" airdate="1991-04-01" name="The Nth Degree" />
+      <Episode number="15" airdate="1991-02-18"
+        name="First Contact" />
+      <Episode number="16" airdate="1991-03-11"
+        name="Galaxy's Child" />
+      <Episode number="17" airdate="1991-03-18"
+        name="Night Terrors" />
+      <Episode number="18" airdate="1991-03-25"
+        name="Identity Crisis" />
+      <Episode number="19" airdate="1991-04-01"
+        name="The Nth Degree" />
       <Episode number="20" airdate="1991-04-22" name="Qpid" />
-      <Episode number="21" airdate="1991-04-29" name="The Drumhead" />
-      <Episode number="22" airdate="1991-05-06" name="Half a Life" />
+      <Episode number="21" airdate="1991-04-29"
+        name="The Drumhead" />
+      <Episode number="22" airdate="1991-05-06"
+        name="Half a Life" />
       <Episode number="23" airdate="1991-05-13" name="The Host" />
-      <Episode number="24" airdate="1991-05-27" name="The Mind's Eye" />
+      <Episode number="24" airdate="1991-05-27"
+        name="The Mind's Eye" />
       <Episode number="25" airdate="1991-06-03" name="In Theory" />
-      <Episode number="26" airdate="1991-06-17" name="Redemption" />
+      <Episode number="26" airdate="1991-06-17"
+        name="Redemption" />
     </Season>
     <Season number="5">
-      <Episode number="1" airdate="1991-09-23" name="Redemption II" />
+      <Episode number="1" airdate="1991-09-23"
+        name="Redemption II" />
       <Episode number="2" airdate="1991-09-30" name="Darmok" />
       <Episode number="3" airdate="1991-10-07" name="Ensign Ro" />
-      <Episode number="4" airdate="1991-10-14" name="Silicon Avatar" />
+      <Episode number="4" airdate="1991-10-14"
+        name="Silicon Avatar" />
       <Episode number="5" airdate="1991-10-21" name="Disaster" />
       <Episode number="6" airdate="1991-10-28" name="The Game" />
-      <Episode number="7" airdate="1991-11-04" name="Unification I" />
-      <Episode number="8" airdate="1991-11-11" name="Unification II" />
-      <Episode number="9" airdate="1991-11-18" name="A Matter of Time" />
-      <Episode number="10" airdate="1992-01-06" name="New Ground" />
-      <Episode number="11" airdate="1992-01-27" name="Hero Worship" />
-      <Episode number="12" airdate="1992-02-03" name="Violations" />
-      <Episode number="13" airdate="1992-02-10" name="The Masterpiece Society" />
+      <Episode number="7" airdate="1991-11-04"
+        name="Unification I" />
+      <Episode number="8" airdate="1991-11-11"
+        name="Unification II" />
+      <Episode number="9" airdate="1991-11-18"
+        name="A Matter of Time" />
+      <Episode number="10" airdate="1992-01-06"
+        name="New Ground" />
+      <Episode number="11" airdate="1992-01-27"
+        name="Hero Worship" />
+      <Episode number="12" airdate="1992-02-03"
+        name="Violations" />
+      <Episode number="13" airdate="1992-02-10"
+        name="The Masterpiece Society" />
       <Episode number="14" airdate="1992-02-17" name="Conundrum" />
-      <Episode number="15" airdate="1992-02-24" name="Power Play" />
+      <Episode number="15" airdate="1992-02-24"
+        name="Power Play" />
       <Episode number="16" airdate="1992-03-02" name="Ethics" />
-      <Episode number="17" airdate="1992-03-16" name="The Outcast" />
-      <Episode number="18" airdate="1992-03-23" name="Cause and Effect" />
-      <Episode number="19" airdate="1992-03-30" name="The First Duty" />
-      <Episode number="20" airdate="1992-04-20" name="Cost of Living" />
-      <Episode number="21" airdate="1992-04-27" name="The Perfect Mate" />
-      <Episode number="22" airdate="1992-05-04" name="Imaginary Friend" />
+      <Episode number="17" airdate="1992-03-16"
+        name="The Outcast" />
+      <Episode number="18" airdate="1992-03-23"
+        name="Cause and Effect" />
+      <Episode number="19" airdate="1992-03-30"
+        name="The First Duty" />
+      <Episode number="20" airdate="1992-04-20"
+        name="Cost of Living" />
+      <Episode number="21" airdate="1992-04-27"
+        name="The Perfect Mate" />
+      <Episode number="22" airdate="1992-05-04"
+        name="Imaginary Friend" />
       <Episode number="23" airdate="1992-05-11" name="I Borg" />
-      <Episode number="24" airdate="1992-05-18" name="The Next Phase" />
-      <Episode number="25" airdate="1992-06-01" name="The Inner Light" />
-      <Episode number="26" airdate="1992-06-15" name="Time's Arrow, Part I" />
+      <Episode number="24" airdate="1992-05-18"
+        name="The Next Phase" />
+      <Episode number="25" airdate="1992-06-01"
+        name="The Inner Light" />
+      <Episode number="26" airdate="1992-06-15"
+        name="Time's Arrow, Part I" />
     </Season>
     <Season number="6">
-      <Episode number="1" airdate="1992-09-21" name="Time's Arrow, Part II" />
-      <Episode number="2" airdate="1992-09-28" name="Realm of Fear" />
-      <Episode number="3" airdate="1992-10-05" name="Man of the People" />
+      <Episode number="1" airdate="1992-09-21"
+        name="Time's Arrow, Part II" />
+      <Episode number="2" airdate="1992-09-28"
+        name="Realm of Fear" />
+      <Episode number="3" airdate="1992-10-05"
+        name="Man of the People" />
       <Episode number="4" airdate="1992-10-12" name="Relics" />
       <Episode number="5" airdate="1992-10-19" name="Schisms" />
       <Episode number="6" airdate="1992-10-26" name="True Q" />
       <Episode number="7" airdate="1992-11-02" name="Rascals" />
-      <Episode number="8" airdate="1992-11-07" name="A Fistful of Datas" />
-      <Episode number="9" airdate="1992-11-14" name="The Quality of Life" />
-      <Episode number="10" airdate="1992-12-14" name="Chain of Command, Part I" />
-      <Episode number="11" airdate="1992-12-21" name="Chain of Command, Part II" />
-      <Episode number="12" airdate="1993-01-25" name="Ship in a Bottle" />
+      <Episode number="8" airdate="1992-11-07"
+        name="A Fistful of Datas" />
+      <Episode number="9" airdate="1992-11-14"
+        name="The Quality of Life" />
+      <Episode number="10" airdate="1992-12-14"
+        name="Chain of Command, Part I" />
+      <Episode number="11" airdate="1992-12-21"
+        name="Chain of Command, Part II" />
+      <Episode number="12" airdate="1993-01-25"
+        name="Ship in a Bottle" />
       <Episode number="13" airdate="1993-02-01" name="Aquiel" />
-      <Episode number="14" airdate="1993-02-08" name="Face of the Enemy" />
+      <Episode number="14" airdate="1993-02-08"
+        name="Face of the Enemy" />
       <Episode number="15" airdate="1993-02-15" name="Tapestry" />
-      <Episode number="16" airdate="1993-02-22" name="Birthright, Part I" />
-      <Episode number="17" airdate="1993-03-01" name="Birthright, Part II" />
-      <Episode number="18" airdate="1993-03-29" name="Starship Mine" />
+      <Episode number="16" airdate="1993-02-22"
+        name="Birthright, Part I" />
+      <Episode number="17" airdate="1993-03-01"
+        name="Birthright, Part II" />
+      <Episode number="18" airdate="1993-03-29"
+        name="Starship Mine" />
       <Episode number="19" airdate="1993-04-05" name="Lessons" />
       <Episode number="20" airdate="1993-04-26" name="The Chase" />
-      <Episode number="21" airdate="1993-05-02" name="Frame of Mind" />
-      <Episode number="22" airdate="1993-05-10" name="Suspicions" />
-      <Episode number="23" airdate="1993-05-17" name="Rightful Heir" />
-      <Episode number="24" airdate="1993-05-24" name="Second Chances" />
+      <Episode number="21" airdate="1993-05-02"
+        name="Frame of Mind" />
+      <Episode number="22" airdate="1993-05-10"
+        name="Suspicions" />
+      <Episode number="23" airdate="1993-05-17"
+        name="Rightful Heir" />
+      <Episode number="24" airdate="1993-05-24"
+        name="Second Chances" />
       <Episode number="25" airdate="1993-06-12" name="Timescape" />
-      <Episode number="26" airdate="1993-06-21" name="Descent, Part I" />
+      <Episode number="26" airdate="1993-06-21"
+        name="Descent, Part I" />
     </Season>
     <Season number="7">
-      <Episode number="1" airdate="1993-09-18" name="Descent, Part II" />
+      <Episode number="1" airdate="1993-09-18"
+        name="Descent, Part II" />
       <Episode number="2" airdate="1993-09-25" name="Liaisons" />
       <Episode number="3" airdate="1993-10-04" name="Interface" />
-      <Episode number="4" airdate="1993-10-09" name="Gambit, Part I" />
-      <Episode number="5" airdate="1993-10-16" name="Gambit, Part II" />
+      <Episode number="4" airdate="1993-10-09"
+        name="Gambit, Part I" />
+      <Episode number="5" airdate="1993-10-16"
+        name="Gambit, Part II" />
       <Episode number="6" airdate="1993-10-23" name="Phantasms" />
       <Episode number="7" airdate="1993-10-30" name="Dark Page" />
       <Episode number="8" airdate="1993-11-06" name="Attached" />
-      <Episode number="9" airdate="1993-11-15" name="Force of Nature" />
-      <Episode number="10" airdate="1993-11-22" name="Inheritance" />
+      <Episode number="9" airdate="1993-11-15"
+        name="Force of Nature" />
+      <Episode number="10" airdate="1993-11-22"
+        name="Inheritance" />
       <Episode number="11" airdate="1993-11-27" name="Parallels" />
-      <Episode number="12" airdate="1994-01-10" name="The Pegasus" />
+      <Episode number="12" airdate="1994-01-10"
+        name="The Pegasus" />
       <Episode number="13" airdate="1994-01-15" name="Homeward" />
       <Episode number="14" airdate="1994-01-31" name="Sub Rosa" />
-      <Episode number="15" airdate="1994-02-07" name="Lower Decks" />
-      <Episode number="16" airdate="1994-02-14" name="Thine Own Self" />
+      <Episode number="15" airdate="1994-02-07"
+        name="Lower Decks" />
+      <Episode number="16" airdate="1994-02-14"
+        name="Thine Own Self" />
       <Episode number="17" airdate="1994-02-19" name="Masks" />
-      <Episode number="18" airdate="1994-02-26" name="Eye of the Beholder" />
+      <Episode number="18" airdate="1994-02-26"
+        name="Eye of the Beholder" />
       <Episode number="19" airdate="1994-03-19" name="Genesis" />
-      <Episode number="20" airdate="1994-03-26" name="Journey's End" />
+      <Episode number="20" airdate="1994-03-26"
+        name="Journey's End" />
       <Episode number="21" airdate="1994-04-23" name="Firstborn" />
-      <Episode number="22" airdate="1994-04-30" name="Bloodlines" />
+      <Episode number="22" airdate="1994-04-30"
+        name="Bloodlines" />
       <Episode number="23" airdate="1994-05-07" name="Emergence" />
-      <Episode number="24" airdate="1994-05-14" name="Preemptive Strike" />
-      <Episode number="25" airdate="1994-05-23" name="All Good Things..." />
-      <Episode number="26" airdate="1994-05-23" name="All Good Things..." />
+      <Episode number="24" airdate="1994-05-14"
+        name="Preemptive Strike" />
+      <Episode number="25" airdate="1994-05-23"
+        name="All Good Things..." />
+      <Episode number="26" airdate="1994-05-23"
+        name="All Good Things..." />
     </Season>
   </Series>
 
@@ -329,197 +528,324 @@
     <Season number="1">
       <Episode number="1" airdate="1993-01-03" name="Emissary" />
       <Episode number="2" airdate="1993-01-03" name="Emissary" />
-      <Episode number="3" airdate="1993-01-09" name="Past Prologue" />
-      <Episode number="4" airdate="1993-01-17" name="A Man Alone" />
+      <Episode number="3" airdate="1993-01-09"
+        name="Past Prologue" />
+      <Episode number="4" airdate="1993-01-17"
+        name="A Man Alone" />
       <Episode number="5" airdate="1993-01-24" name="Babel" />
-      <Episode number="6" airdate="1993-01-30" name="Captive Pursuit" />
+      <Episode number="6" airdate="1993-01-30"
+        name="Captive Pursuit" />
       <Episode number="7" airdate="1993-02-06" name="Q-Less" />
       <Episode number="8" airdate="1993-02-13" name="Dax" />
-      <Episode number="9" airdate="1993-02-20" name="The Passenger" />
-      <Episode number="10" airdate="1993-03-14" name="Move Along Home" />
+      <Episode number="9" airdate="1993-02-20"
+        name="The Passenger" />
+      <Episode number="10" airdate="1993-03-14"
+        name="Move Along Home" />
       <Episode number="11" airdate="1993-03-21" name="The Nagus" />
       <Episode number="12" airdate="1993-04-18" name="Vortex" />
-      <Episode number="13" airdate="1993-04-25" name="Battle Lines" />
-      <Episode number="14" airdate="1993-05-02" name="The Storyteller" />
+      <Episode number="13" airdate="1993-04-25"
+        name="Battle Lines" />
+      <Episode number="14" airdate="1993-05-02"
+        name="The Storyteller" />
       <Episode number="15" airdate="1993-05-09" name="Progress" />
-      <Episode number="16" airdate="1993-05-16" name="If Wishes Were Horses" />
-      <Episode number="17" airdate="1993-05-23" name="The Forsaken" />
-      <Episode number="18" airdate="1993-05-30" name="Dramatis Personae" />
+      <Episode number="16" airdate="1993-05-16"
+        name="If Wishes Were Horses" />
+      <Episode number="17" airdate="1993-05-23"
+        name="The Forsaken" />
+      <Episode number="18" airdate="1993-05-30"
+        name="Dramatis Personae" />
       <Episode number="19" airdate="1993-06-13" name="Duet" />
       <Episode number="20" airdate="1993-06-20"
         name="In the Hands of the Prophets" />
     </Season>
     <Season number="2">
-      <Episode number="1" airdate="1993-09-26" name="The Homecoming" />
+      <Episode number="1" airdate="1993-09-26"
+        name="The Homecoming" />
       <Episode number="2" airdate="1993-10-03" name="The Circle" />
       <Episode number="3" airdate="1993-10-10" name="The Siege" />
-      <Episode number="4" airdate="1993-10-17" name="Invasive Procedures" />
-      <Episode number="5" airdate="1993-10-24" name="Cardassians" />
+      <Episode number="4" airdate="1993-10-17"
+        name="Invasive Procedures" />
+      <Episode number="5" airdate="1993-10-24"
+        name="Cardassians" />
       <Episode number="6" airdate="1993-10-31" name="Melora" />
-      <Episode number="7" airdate="1993-11-06" name="Rules of Acquisition" />
-      <Episode number="8" airdate="1993-11-14" name="Necessary Evil" />
-      <Episode number="9" airdate="1993-11-20" name="Second Sight" />
+      <Episode number="7" airdate="1993-11-06"
+        name="Rules of Acquisition" />
+      <Episode number="8" airdate="1993-11-14"
+        name="Necessary Evil" />
+      <Episode number="9" airdate="1993-11-20"
+        name="Second Sight" />
       <Episode number="10" airdate="1993-11-28" name="Sanctuary" />
       <Episode number="11" airdate="1994-01-02" name="Rivals" />
-      <Episode number="12" airdate="1994-01-09" name="The Alternate" />
-      <Episode number="13" airdate="1994-01-30" name="Armageddon Game" />
+      <Episode number="12" airdate="1994-01-09"
+        name="The Alternate" />
+      <Episode number="13" airdate="1994-01-30"
+        name="Armageddon Game" />
       <Episode number="14" airdate="1994-02-06" name="Whispers" />
       <Episode number="15" airdate="1994-02-13" name="Paradise" />
-      <Episode number="16" airdate="1994-02-20" name="Shadowplay" />
-      <Episode number="17" airdate="1994-02-27" name="Playing God" />
-      <Episode number="18" airdate="1994-03-20" name="Profit and Loss" />
-      <Episode number="19" airdate="1994-03-27" name="Blood Oath" />
-      <Episode number="20" airdate="1994-04-24" name="The Maquis, Part I" />
-      <Episode number="21" airdate="1994-05-01" name="The Maquis, Part II" />
+      <Episode number="16" airdate="1994-02-20"
+        name="Shadowplay" />
+      <Episode number="17" airdate="1994-02-27"
+        name="Playing God" />
+      <Episode number="18" airdate="1994-03-20"
+        name="Profit and Loss" />
+      <Episode number="19" airdate="1994-03-27"
+        name="Blood Oath" />
+      <Episode number="20" airdate="1994-04-24"
+        name="The Maquis, Part I" />
+      <Episode number="21" airdate="1994-05-01"
+        name="The Maquis, Part II" />
       <Episode number="22" airdate="1994-05-08" name="The Wire" />
       <Episode number="23" airdate="1994-05-15" name="Crossover" />
-      <Episode number="24" airdate="1994-05-22" name="The Collaborator" />
+      <Episode number="24" airdate="1994-05-22"
+        name="The Collaborator" />
       <Episode number="25" airdate="1994-06-05" name="Tribunal" />
-      <Episode number="26" airdate="1994-07-12" name="The Jem'Hadar" />
+      <Episode number="26" airdate="1994-07-12"
+        name="The Jem'Hadar" />
     </Season>
     <Season number="3">
-      <Episode number="1" airdate="1994-09-26" name="The Search, Part I" />
-      <Episode number="2" airdate="1994-10-03" name="The Search, Part II" />
-      <Episode number="3" airdate="1994-10-10" name="The House of Quark" />
-      <Episode number="4" airdate="1994-10-17" name="Equilibrium" />
-      <Episode number="5" airdate="1994-10-24" name="Second Skin" />
-      <Episode number="6" airdate="1994-10-31" name="The Abandoned" />
-      <Episode number="7" airdate="1994-11-07" name="Civil Defense" />
+      <Episode number="1" airdate="1994-09-26"
+        name="The Search, Part I" />
+      <Episode number="2" airdate="1994-10-03"
+        name="The Search, Part II" />
+      <Episode number="3" airdate="1994-10-10"
+        name="The House of Quark" />
+      <Episode number="4" airdate="1994-10-17"
+        name="Equilibrium" />
+      <Episode number="5" airdate="1994-10-24"
+        name="Second Skin" />
+      <Episode number="6" airdate="1994-10-31"
+        name="The Abandoned" />
+      <Episode number="7" airdate="1994-11-07"
+        name="Civil Defense" />
       <Episode number="8" airdate="1994-11-14" name="Meridian" />
       <Episode number="9" airdate="1994-11-21" name="Defiant" />
-      <Episode number="10" airdate="1994-11-28" name="Fascination" />
-      <Episode number="11" airdate="1995-01-08" name="Past Tense, Part I" />
-      <Episode number="12" airdate="1995-01-15" name="Past Tense, Part II" />
-      <Episode number="13" airdate="1995-01-31" name="Life Support" />
-      <Episode number="14" airdate="1995-02-06" name="Heart of Stone" />
+      <Episode number="10" airdate="1994-11-28"
+        name="Fascination" />
+      <Episode number="11" airdate="1995-01-08"
+        name="Past Tense, Part I" />
+      <Episode number="12" airdate="1995-01-15"
+        name="Past Tense, Part II" />
+      <Episode number="13" airdate="1995-01-31"
+        name="Life Support" />
+      <Episode number="14" airdate="1995-02-06"
+        name="Heart of Stone" />
       <Episode number="15" airdate="1995-02-13" name="Destiny" />
-      <Episode number="16" airdate="1995-02-20" name="Prophet Motive" />
+      <Episode number="16" airdate="1995-02-20"
+        name="Prophet Motive" />
       <Episode number="17" airdate="1995-02-27" name="Visionary" />
-      <Episode number="18" airdate="1995-04-10" name="Distant Voices" />
-      <Episode number="19" airdate="1995-04-17" name="Through the Looking Glass" />
-      <Episode number="20" airdate="1995-04-24" name="Improbable Cause" />
-      <Episode number="21" airdate="1995-05-01" name="The Die is Cast" />
+      <Episode number="18" airdate="1995-04-10"
+        name="Distant Voices" />
+      <Episode number="19" airdate="1995-04-17"
+        name="Through the Looking Glass" />
+      <Episode number="20" airdate="1995-04-24"
+        name="Improbable Cause" />
+      <Episode number="21" airdate="1995-05-01"
+        name="The Die is Cast" />
       <Episode number="22" airdate="1995-05-08" name="Explorers" />
-      <Episode number="23" airdate="1995-05-15" name="Family Business" />
+      <Episode number="23" airdate="1995-05-15"
+        name="Family Business" />
       <Episode number="24" airdate="1995-05-22" name="Shakaar" />
       <Episode number="25" airdate="1995-06-12" name="Facets" />
-      <Episode number="26" airdate="1995-06-25" name="The Adversary" />
+      <Episode number="26" airdate="1995-06-25"
+        name="The Adversary" />
     </Season>
     <Season number="4">
-      <Episode number="1" airdate="1995-10-02" name="The Way of the Warrior" />
-      <Episode number="2" airdate="1995-10-02" name="The Way of the Warrior" />
-      <Episode number="3" airdate="1995-10-09" name="The Visitor" />
-      <Episode number="4" airdate="1995-10-16" name="Hippocratic Oath" />
-      <Episode number="5" airdate="1995-10-23" name="Indiscretion" />
+      <Episode number="1" airdate="1995-10-02"
+        name="The Way of the Warrior" />
+      <Episode number="2" airdate="1995-10-02"
+        name="The Way of the Warrior" />
+      <Episode number="3" airdate="1995-10-09"
+        name="The Visitor" />
+      <Episode number="4" airdate="1995-10-16"
+        name="Hippocratic Oath" />
+      <Episode number="5" airdate="1995-10-23"
+        name="Indiscretion" />
       <Episode number="6" airdate="1995-10-30" name="Rejoined" />
-      <Episode number="7" airdate="1995-11-13" name="Starship Down" />
-      <Episode number="8" airdate="1995-11-15" name="Little Green Men" />
-      <Episode number="9" airdate="1995-11-20" name="The Sword of Kahless" />
-      <Episode number="10" airdate="1995-11-27" name="Our Man Bashir" />
+      <Episode number="7" airdate="1995-11-13"
+        name="Starship Down" />
+      <Episode number="8" airdate="1995-11-15"
+        name="Little Green Men" />
+      <Episode number="9" airdate="1995-11-20"
+        name="The Sword of Kahless" />
+      <Episode number="10" airdate="1995-11-27"
+        name="Our Man Bashir" />
       <Episode number="11" airdate="1996-01-01" name="Homefront" />
-      <Episode number="12" airdate="1996-01-08" name="Paradise Lost" />
+      <Episode number="12" airdate="1996-01-08"
+        name="Paradise Lost" />
       <Episode number="13" airdate="1996-01-29" name="Crossfire" />
-      <Episode number="14" airdate="1996-02-05" name="Return to Grace" />
-      <Episode number="15" airdate="1996-02-12" name="Sons of Mogh" />
-      <Episode number="16" airdate="1996-02-19" name="Bar Association" />
+      <Episode number="14" airdate="1996-02-05"
+        name="Return to Grace" />
+      <Episode number="15" airdate="1996-02-12"
+        name="Sons of Mogh" />
+      <Episode number="16" airdate="1996-02-19"
+        name="Bar Association" />
       <Episode number="17" airdate="1996-02-24" name="Accession" />
-      <Episode number="18" airdate="1996-04-08" name="Rules of Engagement" />
+      <Episode number="18" airdate="1996-04-08"
+        name="Rules of Engagement" />
       <Episode number="19" airdate="1996-04-15" name="Hard Time" />
-      <Episode number="20" airdate="1996-04-22" name="Shattered Mirror" />
+      <Episode number="20" airdate="1996-04-22"
+        name="Shattered Mirror" />
       <Episode number="21" airdate="1996-04-29" name="The Muse" />
-      <Episode number="22" airdate="1996-05-06" name="For the Cause" />
-      <Episode number="23" airdate="1996-05-13" name="To the Death" />
-      <Episode number="24" airdate="1996-05-20" name="The Quickening" />
-      <Episode number="25" airdate="1996-06-10" name="Body Parts" />
-      <Episode number="26" airdate="1996-06-17" name="Broken Link" />
+      <Episode number="22" airdate="1996-05-06"
+        name="For the Cause" />
+      <Episode number="23" airdate="1996-05-13"
+        name="To the Death" />
+      <Episode number="24" airdate="1996-05-20"
+        name="The Quickening" />
+      <Episode number="25" airdate="1996-06-10"
+        name="Body Parts" />
+      <Episode number="26" airdate="1996-06-17"
+        name="Broken Link" />
     </Season>
     <Season number="5">
-      <Episode number="1" airdate="1996-09-30" name="Apocalypse Rising" />
+      <Episode number="1" airdate="1996-09-30"
+        name="Apocalypse Rising" />
       <Episode number="2" airdate="1996-10-07" name="The Ship" />
       <Episode number="3" airdate="1996-10-14"
         name="Looking for par'Mach in All the Wrong Places" />
-      <Episode number="4" airdate="1996-10-21" name="Nor the Battle to the Strong" />
-      <Episode number="5" airdate="1996-10-28" name="The Assignment" />
-      <Episode number="6" airdate="1996-11-04" name="Trials and Tribble-ations" />
-      <Episode number="7" airdate="1996-11-11" name="Let He Who Is Without Sin..." />
-      <Episode number="8" airdate="1996-11-18" name="Things Past" />
+      <Episode number="4" airdate="1996-10-21"
+        name="Nor the Battle to the Strong" />
+      <Episode number="5" airdate="1996-10-28"
+        name="The Assignment" />
+      <Episode number="6" airdate="1996-11-04"
+        name="Trials and Tribble-ations" />
+      <Episode number="7" airdate="1996-11-11"
+        name="Let He Who Is Without Sin..." />
+      <Episode number="8" airdate="1996-11-18"
+        name="Things Past" />
       <Episode number="9" airdate="1996-11-25" name="The Ascent" />
       <Episode number="10" airdate="1996-12-30" name="Rapture" />
-      <Episode number="11" airdate="1997-01-06" name="The Darkness and the Light" />
-      <Episode number="12" airdate="1997-01-27" name="The Begotten" />
-      <Episode number="13" airdate="1997-02-03" name="For the Uniform" />
-      <Episode number="14" airdate="1997-02-10" name="In Purgatory's Shadow" />
-      <Episode number="15" airdate="1997-02-17" name="By Inferno's Light" />
-      <Episode number="16" airdate="1997-02-24" name="Doctor Bashir, I Presume" />
-      <Episode number="17" airdate="1997-03-31" name="A Simple Investigation" />
-      <Episode number="18" airdate="1997-04-05" name="Business as Usual" />
-      <Episode number="19" airdate="1997-04-14" name="Ties of Blood and Water" />
-      <Episode number="20" airdate="1997-04-21" name="Ferengi Love Songs" />
-      <Episode number="21" airdate="1997-04-29" name="Soldiers of the Empire" />
-      <Episode number="22" airdate="1997-05-05" name="Children of Time" />
-      <Episode number="23" airdate="1997-05-12" name="Blaze of Glory" />
+      <Episode number="11" airdate="1997-01-06"
+        name="The Darkness and the Light" />
+      <Episode number="12" airdate="1997-01-27"
+        name="The Begotten" />
+      <Episode number="13" airdate="1997-02-03"
+        name="For the Uniform" />
+      <Episode number="14" airdate="1997-02-10"
+        name="In Purgatory's Shadow" />
+      <Episode number="15" airdate="1997-02-17"
+        name="By Inferno's Light" />
+      <Episode number="16" airdate="1997-02-24"
+        name="Doctor Bashir, I Presume" />
+      <Episode number="17" airdate="1997-03-31"
+        name="A Simple Investigation" />
+      <Episode number="18" airdate="1997-04-05"
+        name="Business as Usual" />
+      <Episode number="19" airdate="1997-04-14"
+        name="Ties of Blood and Water" />
+      <Episode number="20" airdate="1997-04-21"
+        name="Ferengi Love Songs" />
+      <Episode number="21" airdate="1997-04-29"
+        name="Soldiers of the Empire" />
+      <Episode number="22" airdate="1997-05-05"
+        name="Children of Time" />
+      <Episode number="23" airdate="1997-05-12"
+        name="Blaze of Glory" />
       <Episode number="24" airdate="1997-05-19" name="Empok Nor" />
-      <Episode number="25" airdate="1997-06-09" name="In the Cards" />
-      <Episode number="26" airdate="1997-06-16" name="Call to Arms" />
+      <Episode number="25" airdate="1997-06-09"
+        name="In the Cards" />
+      <Episode number="26" airdate="1997-06-16"
+        name="Call to Arms" />
     </Season>
     <Season number="6">
-      <Episode number="1" airdate="1997-09-29" name="A Time to Stand" />
-      <Episode number="2" airdate="1997-10-06" name="Rocks and Shoals" />
-      <Episode number="3" airdate="1997-10-16" name="Sons and Daughters" />
-      <Episode number="4" airdate="1997-10-20" name="Behind the Lines" />
-      <Episode number="5" airdate="1997-10-27" name="Favor the Bold" />
-      <Episode number="6" airdate="1997-11-03" name="Sacrifice of Angels" />
-      <Episode number="7" airdate="1997-11-10" name="You Are Cordially Invited" />
-      <Episode number="8" airdate="1997-11-17" name="Resurrection" />
-      <Episode number="9" airdate="1997-11-22" name="Statistical Probabilities" />
-      <Episode number="10" airdate="1997-12-17" name="The Magnificent Ferengi" />
+      <Episode number="1" airdate="1997-09-29"
+        name="A Time to Stand" />
+      <Episode number="2" airdate="1997-10-06"
+        name="Rocks and Shoals" />
+      <Episode number="3" airdate="1997-10-16"
+        name="Sons and Daughters" />
+      <Episode number="4" airdate="1997-10-20"
+        name="Behind the Lines" />
+      <Episode number="5" airdate="1997-10-27"
+        name="Favor the Bold" />
+      <Episode number="6" airdate="1997-11-03"
+        name="Sacrifice of Angels" />
+      <Episode number="7" airdate="1997-11-10"
+        name="You Are Cordially Invited" />
+      <Episode number="8" airdate="1997-11-17"
+        name="Resurrection" />
+      <Episode number="9" airdate="1997-11-22"
+        name="Statistical Probabilities" />
+      <Episode number="10" airdate="1997-12-17"
+        name="The Magnificent Ferengi" />
       <Episode number="11" airdate="1998-01-03" name="Waltz" />
-      <Episode number="12" airdate="1998-02-04" name="Who Mourns for Morn?" />
-      <Episode number="13" airdate="1998-02-11" name="Far Beyond the Stars" />
-      <Episode number="14" airdate="1998-02-14" name="One Little Ship" />
-      <Episode number="15" airdate="1998-02-21" name="Honor Among Thieves" />
-      <Episode number="16" airdate="1998-02-28" name="Change of Heart" />
+      <Episode number="12" airdate="1998-02-04"
+        name="Who Mourns for Morn?" />
+      <Episode number="13" airdate="1998-02-11"
+        name="Far Beyond the Stars" />
+      <Episode number="14" airdate="1998-02-14"
+        name="One Little Ship" />
+      <Episode number="15" airdate="1998-02-21"
+        name="Honor Among Thieves" />
+      <Episode number="16" airdate="1998-02-28"
+        name="Change of Heart" />
       <Episode number="17" airdate="1998-03-28"
         name="Wrongs Darker Than Death or Night" />
-      <Episode number="18" airdate="1998-04-08" name="Inquisition" />
-      <Episode number="19" airdate="1998-04-15" name="In the Pale Moonlight" />
+      <Episode number="18" airdate="1998-04-08"
+        name="Inquisition" />
+      <Episode number="19" airdate="1998-04-15"
+        name="In the Pale Moonlight" />
       <Episode number="20" airdate="1998-04-22" name="His Way" />
-      <Episode number="21" airdate="1998-04-29" name="The Reckoning" />
+      <Episode number="21" airdate="1998-04-29"
+        name="The Reckoning" />
       <Episode number="22" airdate="1998-05-06" name="Valiant" />
-      <Episode number="23" airdate="1998-05-13" name="Profit and Lace" />
-      <Episode number="24" airdate="1998-05-20" name="Time's Orphan" />
-      <Episode number="25" airdate="1998-06-10" name="The Sound of Her Voice" />
-      <Episode number="26" airdate="1998-06-17" name="Tears of the Prophets" />
+      <Episode number="23" airdate="1998-05-13"
+        name="Profit and Lace" />
+      <Episode number="24" airdate="1998-05-20"
+        name="Time's Orphan" />
+      <Episode number="25" airdate="1998-06-10"
+        name="The Sound of Her Voice" />
+      <Episode number="26" airdate="1998-06-17"
+        name="Tears of the Prophets" />
     </Season>
     <Season number="7">
-      <Episode number="1" airdate="1998-09-30" name="Image in the Sand" />
-      <Episode number="2" airdate="1998-10-07" name="Shadows and Symbols" />
+      <Episode number="1" airdate="1998-09-30"
+        name="Image in the Sand" />
+      <Episode number="2" airdate="1998-10-07"
+        name="Shadows and Symbols" />
       <Episode number="3" airdate="1998-10-14" name="Afterimage" />
-      <Episode number="4" airdate="1998-10-21" name="Take Me Out to the Holosuite" />
+      <Episode number="4" airdate="1998-10-21"
+        name="Take Me Out to the Holosuite" />
       <Episode number="5" airdate="1998-10-28" name="Chrysalis" />
       <Episode number="6" airdate="1998-11-04"
         name="Treachery, Faith and the Great River" />
-      <Episode number="7" airdate="1998-11-11" name="Once More Unto the Breach" />
-      <Episode number="8" airdate="1998-11-18" name="The Siege of AR-558" />
+      <Episode number="7" airdate="1998-11-11"
+        name="Once More Unto the Breach" />
+      <Episode number="8" airdate="1998-11-18"
+        name="The Siege of AR-558" />
       <Episode number="9" airdate="1998-11-25" name="Covenant" />
-      <Episode number="10" airdate="1998-12-30" name="It's Only a Paper Moon" />
-      <Episode number="11" airdate="1999-01-06" name="Prodigal Daughter" />
-      <Episode number="12" airdate="1999-02-03" name="The Emperor's New Cloak" />
-      <Episode number="13" airdate="1999-02-10" name="Field of Fire" />
+      <Episode number="10" airdate="1998-12-30"
+        name="It's Only a Paper Moon" />
+      <Episode number="11" airdate="1999-01-06"
+        name="Prodigal Daughter" />
+      <Episode number="12" airdate="1999-02-03"
+        name="The Emperor's New Cloak" />
+      <Episode number="13" airdate="1999-02-10"
+        name="Field of Fire" />
       <Episode number="14" airdate="1999-02-17" name="Chimera" />
-      <Episode number="15" airdate="1999-02-24" name="Badda-Bing, Badda-Bang" />
+      <Episode number="15" airdate="1999-02-24"
+        name="Badda-Bing, Badda-Bang" />
       <Episode number="16" airdate="1999-03-03"
         name="Inter Arma Enim Silent Leges" />
       <Episode number="17" airdate="1999-04-07" name="Penumbra" />
-      <Episode number="18" airdate="1999-04-14" name="'Til Death Do Us Part" />
-      <Episode number="19" airdate="1999-04-21" name="Strange Bedfellows" />
-      <Episode number="20" airdate="1999-04-28" name="The Changing Face of Evil" />
-      <Episode number="21" airdate="1999-05-05" name="When It Rains..." />
-      <Episode number="22" airdate="1999-05-12" name="Tacking Into the Wind" />
-      <Episode number="23" airdate="1999-05-19" name="Extreme Measures" />
-      <Episode number="24" airdate="1999-05-26" name="The Dogs of War" />
-      <Episode number="25" airdate="1999-06-02" name="What You Leave Behind" />
-      <Episode number="26" airdate="1999-06-02" name="What You Leave Behind" />
+      <Episode number="18" airdate="1999-04-14"
+        name="'Til Death Do Us Part" />
+      <Episode number="19" airdate="1999-04-21"
+        name="Strange Bedfellows" />
+      <Episode number="20" airdate="1999-04-28"
+        name="The Changing Face of Evil" />
+      <Episode number="21" airdate="1999-05-05"
+        name="When It Rains..." />
+      <Episode number="22" airdate="1999-05-12"
+        name="Tacking Into the Wind" />
+      <Episode number="23" airdate="1999-05-19"
+        name="Extreme Measures" />
+      <Episode number="24" airdate="1999-05-26"
+        name="The Dogs of War" />
+      <Episode number="25" airdate="1999-06-02"
+        name="What You Leave Behind" />
+      <Episode number="26" airdate="1999-06-02"
+        name="What You Leave Behind" />
     </Season>
   </Series>
 
@@ -528,185 +854,284 @@
       <Episode number="1" airdate="1995-01-16" name="Caretaker" />
       <Episode number="2" airdate="1995-01-16" name="Caretaker" />
       <Episode number="3" airdate="1995-01-23" name="Parallax" />
-      <Episode number="4" airdate="1995-01-30" name="Time and Again" />
+      <Episode number="4" airdate="1995-01-30"
+        name="Time and Again" />
       <Episode number="5" airdate="1995-02-06" name="Phage" />
       <Episode number="6" airdate="1995-02-13" name="The Cloud" />
-      <Episode number="7" airdate="1995-02-20" name="Eye of the Needle" />
-      <Episode number="8" airdate="1995-02-27" name="Ex Post Facto" />
+      <Episode number="7" airdate="1995-02-20"
+        name="Eye of the Needle" />
+      <Episode number="8" airdate="1995-02-27"
+        name="Ex Post Facto" />
       <Episode number="9" airdate="1995-03-13" name="Emanations" />
-      <Episode number="10" airdate="1995-03-20" name="Prime Factors" />
-      <Episode number="11" airdate="1995-04-10" name="State of Flux" />
-      <Episode number="12" airdate="1995-04-24" name="Heroes and Demons" />
+      <Episode number="10" airdate="1995-03-20"
+        name="Prime Factors" />
+      <Episode number="11" airdate="1995-04-10"
+        name="State of Flux" />
+      <Episode number="12" airdate="1995-04-24"
+        name="Heroes and Demons" />
       <Episode number="13" airdate="1995-05-01" name="Cathexis" />
       <Episode number="14" airdate="1995-05-08" name="Faces" />
       <Episode number="15" airdate="1995-05-15" name="Jetrel" />
-      <Episode number="16" airdate="1995-05-22" name="Learning Curve" />
+      <Episode number="16" airdate="1995-05-22"
+        name="Learning Curve" />
     </Season>
     <Season number="2">
       <Episode number="1" airdate="1995-08-28" name="The 37's" />
-      <Episode number="2" airdate="1995-09-04" name="Initiations" />
-      <Episode number="3" airdate="1995-09-11" name="Projections" />
+      <Episode number="2" airdate="1995-09-04"
+        name="Initiations" />
+      <Episode number="3" airdate="1995-09-11"
+        name="Projections" />
       <Episode number="4" airdate="1995-09-18" name="Elogium" />
-      <Episode number="5" airdate="1995-09-25" name="Non Sequitur" />
+      <Episode number="5" airdate="1995-09-25"
+        name="Non Sequitur" />
       <Episode number="6" airdate="1995-10-02" name="Twisted" />
-      <Episode number="7" airdate="1995-10-09" name="Parturition" />
-      <Episode number="8" airdate="1995-10-30" name="Persistence of Vision" />
+      <Episode number="7" airdate="1995-10-09"
+        name="Parturition" />
+      <Episode number="8" airdate="1995-10-30"
+        name="Persistence of Vision" />
       <Episode number="9" airdate="1995-11-06" name="Tattoo" />
       <Episode number="10" airdate="1995-11-13" name="Cold Fire" />
       <Episode number="11" airdate="1995-11-20" name="Maneuvers" />
-      <Episode number="12" airdate="1995-11-27" name="Resistance" />
+      <Episode number="12" airdate="1995-11-27"
+        name="Resistance" />
       <Episode number="13" airdate="1996-01-15" name="Prototype" />
       <Episode number="14" airdate="1996-01-22" name="Alliances" />
       <Episode number="15" airdate="1996-01-29" name="Threshold" />
       <Episode number="16" airdate="1996-02-05" name="Meld" />
-      <Episode number="17" airdate="1996-02-12" name="Dreadnought" />
-      <Episode number="18" airdate="1996-02-19" name="Death Wish" />
+      <Episode number="17" airdate="1996-02-12"
+        name="Dreadnought" />
+      <Episode number="18" airdate="1996-02-19"
+        name="Death Wish" />
       <Episode number="19" airdate="1996-02-26" name="Lifesigns" />
-      <Episode number="20" airdate="1996-03-13" name="Investigations" />
+      <Episode number="20" airdate="1996-03-13"
+        name="Investigations" />
       <Episode number="21" airdate="1996-03-18" name="Deadlock" />
       <Episode number="22" airdate="1996-04-08" name="Innocence" />
       <Episode number="23" airdate="1996-04-29" name="The Thaw" />
       <Episode number="24" airdate="1996-05-06" name="Tuvix" />
-      <Episode number="25" airdate="1996-05-13" name="Resolutions" />
-      <Episode number="26" airdate="1996-05-20" name="Basics, Part I" />
+      <Episode number="25" airdate="1996-05-13"
+        name="Resolutions" />
+      <Episode number="26" airdate="1996-05-20"
+        name="Basics, Part I" />
     </Season>
     <Season number="3">
-      <Episode number="1" airdate="1996-09-04" name="Basics, Part II" />
+      <Episode number="1" airdate="1996-09-04"
+        name="Basics, Part II" />
       <Episode number="2" airdate="1996-09-11" name="Flashback" />
       <Episode number="3" airdate="1996-09-18" name="The Chute" />
       <Episode number="4" airdate="1996-09-25" name="The Swarm" />
-      <Episode number="5" airdate="1996-10-02" name="False Profits" />
+      <Episode number="5" airdate="1996-10-02"
+        name="False Profits" />
       <Episode number="6" airdate="1996-10-09" name="Remember" />
-      <Episode number="7" airdate="1996-10-30" name="Sacred Ground" />
-      <Episode number="8" airdate="1996-11-06" name="Future's End, Part I" />
-      <Episode number="9" airdate="1996-11-13" name="Future's End, Part II" />
+      <Episode number="7" airdate="1996-10-30"
+        name="Sacred Ground" />
+      <Episode number="8" airdate="1996-11-06"
+        name="Future's End, Part I" />
+      <Episode number="9" airdate="1996-11-13"
+        name="Future's End, Part II" />
       <Episode number="10" airdate="1996-11-20" name="Warlord" />
-      <Episode number="11" airdate="1996-11-27" name="The Q and the Grey" />
+      <Episode number="11" airdate="1996-11-27"
+        name="The Q and the Grey" />
       <Episode number="12" airdate="1996-12-11" name="Macrocosm" />
-      <Episode number="13" airdate="1997-01-08" name="Fair Trade" />
+      <Episode number="13" airdate="1997-01-08"
+        name="Fair Trade" />
       <Episode number="14" airdate="1997-01-15" name="Alter Ego" />
       <Episode number="15" airdate="1997-01-29" name="Coda" />
-      <Episode number="16" airdate="1997-02-05" name="Blood Fever" />
+      <Episode number="16" airdate="1997-02-05"
+        name="Blood Fever" />
       <Episode number="17" airdate="1997-02-12" name="Unity" />
       <Episode number="18" airdate="1997-02-19" name="Darkling" />
       <Episode number="19" airdate="1997-02-26" name="Rise" />
-      <Episode number="20" airdate="1997-03-19" name="Favorite Son" />
-      <Episode number="21" airdate="1997-04-09" name="Before and After" />
+      <Episode number="20" airdate="1997-03-19"
+        name="Favorite Son" />
+      <Episode number="21" airdate="1997-04-09"
+        name="Before and After" />
       <Episode number="22" airdate="1997-04-23" name="Real Life" />
-      <Episode number="23" airdate="1997-04-30" name="Distant Origin" />
+      <Episode number="23" airdate="1997-04-30"
+        name="Distant Origin" />
       <Episode number="24" airdate="1997-05-07" name="Displaced" />
-      <Episode number="25" airdate="1997-05-14" name="Worst Case Scenario" />
-      <Episode number="26" airdate="1997-05-21" name="Scorpion, Part I" />
+      <Episode number="25" airdate="1997-05-14"
+        name="Worst Case Scenario" />
+      <Episode number="26" airdate="1997-05-21"
+        name="Scorpion, Part I" />
     </Season>
     <Season number="4">
-      <Episode number="1" airdate="1997-09-03" name="Scorpion, Part II" />
+      <Episode number="1" airdate="1997-09-03"
+        name="Scorpion, Part II" />
       <Episode number="2" airdate="1997-09-10" name="The Gift" />
-      <Episode number="3" airdate="1997-09-17" name="Day of Honor" />
+      <Episode number="3" airdate="1997-09-17"
+        name="Day of Honor" />
       <Episode number="4" airdate="1997-09-24" name="Nemesis" />
       <Episode number="5" airdate="1997-10-01" name="Revulsion" />
       <Episode number="6" airdate="1997-10-08" name="The Raven" />
-      <Episode number="7" airdate="1997-10-29" name="Scientific Method" />
-      <Episode number="8" airdate="1997-11-05" name="Year of Hell, Part I" />
-      <Episode number="9" airdate="1997-11-12" name="Year of Hell, Part II" />
-      <Episode number="10" airdate="1997-11-19" name="Random Thoughts" />
-      <Episode number="11" airdate="1997-11-26" name="Concerning Flight" />
-      <Episode number="12" airdate="1997-12-17" name="Mortal Coil" />
-      <Episode number="13" airdate="1998-01-14" name="Waking Moments" />
-      <Episode number="14" airdate="1998-01-21" name="Message in a Bottle" />
+      <Episode number="7" airdate="1997-10-29"
+        name="Scientific Method" />
+      <Episode number="8" airdate="1997-11-05"
+        name="Year of Hell, Part I" />
+      <Episode number="9" airdate="1997-11-12"
+        name="Year of Hell, Part II" />
+      <Episode number="10" airdate="1997-11-19"
+        name="Random Thoughts" />
+      <Episode number="11" airdate="1997-11-26"
+        name="Concerning Flight" />
+      <Episode number="12" airdate="1997-12-17"
+        name="Mortal Coil" />
+      <Episode number="13" airdate="1998-01-14"
+        name="Waking Moments" />
+      <Episode number="14" airdate="1998-01-21"
+        name="Message in a Bottle" />
       <Episode number="15" airdate="1998-02-11" name="Hunters" />
       <Episode number="16" airdate="1998-02-18" name="Prey" />
-      <Episode number="17" airdate="1998-02-25" name="Retrospect" />
-      <Episode number="18" airdate="1998-03-04" name="The Killing Game, Part I" />
-      <Episode number="19" airdate="1998-03-04" name="The Killing Game, Part II" />
+      <Episode number="17" airdate="1998-02-25"
+        name="Retrospect" />
+      <Episode number="18" airdate="1998-03-04"
+        name="The Killing Game, Part I" />
+      <Episode number="19" airdate="1998-03-04"
+        name="The Killing Game, Part II" />
       <Episode number="20" airdate="1998-04-08" name="Vis à Vis" />
-      <Episode number="21" airdate="1998-04-15" name="The Omega Directive" />
-      <Episode number="22" airdate="1998-04-22" name="Unforgettable" />
-      <Episode number="23" airdate="1998-04-29" name="Living Witness" />
+      <Episode number="21" airdate="1998-04-15"
+        name="The Omega Directive" />
+      <Episode number="22" airdate="1998-04-22"
+        name="Unforgettable" />
+      <Episode number="23" airdate="1998-04-29"
+        name="Living Witness" />
       <Episode number="24" airdate="1998-05-06" name="Demon" />
       <Episode number="25" airdate="1998-05-13" name="One" />
-      <Episode number="26" airdate="1998-05-20" name="Hope and Fear" />
+      <Episode number="26" airdate="1998-05-20"
+        name="Hope and Fear" />
     </Season>
     <Season number="5">
       <Episode number="1" airdate="1998-10-14" name="Night" />
       <Episode number="2" airdate="1998-10-21" name="Drone" />
-      <Episode number="3" airdate="1998-10-28" name="Extreme Risk" />
-      <Episode number="4" airdate="1998-11-04" name="In the Flesh" />
-      <Episode number="5" airdate="1998-11-11" name="Once Upon a Time" />
+      <Episode number="3" airdate="1998-10-28"
+        name="Extreme Risk" />
+      <Episode number="4" airdate="1998-11-04"
+        name="In the Flesh" />
+      <Episode number="5" airdate="1998-11-11"
+        name="Once Upon a Time" />
       <Episode number="6" airdate="1998-11-18" name="Timeless" />
-      <Episode number="7" airdate="1998-11-25" name="Infinite Regress" />
-      <Episode number="8" airdate="1998-12-02" name="Nothing Human" />
-      <Episode number="9" airdate="1998-12-09" name="Thirty Days" />
-      <Episode number="10" airdate="1998-12-16" name="Counterpoint" />
-      <Episode number="11" airdate="1999-01-20" name="Latent Image" />
-      <Episode number="12" airdate="1999-01-27" name="Bride of Chaotica!" />
+      <Episode number="7" airdate="1998-11-25"
+        name="Infinite Regress" />
+      <Episode number="8" airdate="1998-12-02"
+        name="Nothing Human" />
+      <Episode number="9" airdate="1998-12-09"
+        name="Thirty Days" />
+      <Episode number="10" airdate="1998-12-16"
+        name="Counterpoint" />
+      <Episode number="11" airdate="1999-01-20"
+        name="Latent Image" />
+      <Episode number="12" airdate="1999-01-27"
+        name="Bride of Chaotica!" />
       <Episode number="13" airdate="1999-02-03" name="Gravity" />
       <Episode number="14" airdate="1999-02-10" name="Bliss" />
-      <Episode number="15" airdate="1999-02-17" name="Dark Frontier" />
-      <Episode number="16" airdate="1999-02-17" name="Dark Frontier" />
-      <Episode number="17" airdate="1999-02-24" name="The Disease" />
-      <Episode number="18" airdate="1999-03-03" name="Course: Oblivion" />
+      <Episode number="15" airdate="1999-02-17"
+        name="Dark Frontier" />
+      <Episode number="16" airdate="1999-02-17"
+        name="Dark Frontier" />
+      <Episode number="17" airdate="1999-02-24"
+        name="The Disease" />
+      <Episode number="18" airdate="1999-03-03"
+        name="Course: Oblivion" />
       <Episode number="19" airdate="1999-03-24" name="The Fight" />
-      <Episode number="20" airdate="1999-03-31" name="Think Tank" />
-      <Episode number="21" airdate="1999-04-26" name="Juggernaut" />
-      <Episode number="22" airdate="1999-04-28" name="Someone to Watch Over Me" />
+      <Episode number="20" airdate="1999-03-31"
+        name="Think Tank" />
+      <Episode number="21" airdate="1999-04-26"
+        name="Juggernaut" />
+      <Episode number="22" airdate="1999-04-28"
+        name="Someone to Watch Over Me" />
       <Episode number="23" airdate="1999-05-05" name="11:59" />
-      <Episode number="24" airdate="1999-05-12" name="Relativity" />
+      <Episode number="24" airdate="1999-05-12"
+        name="Relativity" />
       <Episode number="25" airdate="1999-05-19" name="Warhead" />
-      <Episode number="26" airdate="1999-05-26" name="Equinox, Part I" />
+      <Episode number="26" airdate="1999-05-26"
+        name="Equinox, Part I" />
     </Season>
     <Season number="6">
-      <Episode number="1" airdate="1999-09-22" name="Equinox, Part II" />
-      <Episode number="2" airdate="1999-09-29" name="Survival Instinct" />
-      <Episode number="3" airdate="1999-10-06" name="Barge of the Dead" />
-      <Episode number="4" airdate="1999-10-13" name="Tinker Tenor Doctor Spy" />
+      <Episode number="1" airdate="1999-09-22"
+        name="Equinox, Part II" />
+      <Episode number="2" airdate="1999-09-29"
+        name="Survival Instinct" />
+      <Episode number="3" airdate="1999-10-06"
+        name="Barge of the Dead" />
+      <Episode number="4" airdate="1999-10-13"
+        name="Tinker Tenor Doctor Spy" />
       <Episode number="5" airdate="1999-10-20" name="Alice" />
       <Episode number="6" airdate="1999-11-03" name="Riddles" />
-      <Episode number="7" airdate="1999-11-10" name="Dragon's Teeth" />
-      <Episode number="8" airdate="1999-11-17" name="One Small Step" />
-      <Episode number="9" airdate="1999-11-24" name="The Voyager Conspiracy" />
-      <Episode number="10" airdate="1999-12-01" name="Pathfinder" />
-      <Episode number="11" airdate="2000-01-12" name="Fair Haven" />
-      <Episode number="12" airdate="2000-01-19" name="Blink of an Eye" />
+      <Episode number="7" airdate="1999-11-10"
+        name="Dragon's Teeth" />
+      <Episode number="8" airdate="1999-11-17"
+        name="One Small Step" />
+      <Episode number="9" airdate="1999-11-24"
+        name="The Voyager Conspiracy" />
+      <Episode number="10" airdate="1999-12-01"
+        name="Pathfinder" />
+      <Episode number="11" airdate="2000-01-12"
+        name="Fair Haven" />
+      <Episode number="12" airdate="2000-01-19"
+        name="Blink of an Eye" />
       <Episode number="13" airdate="2000-01-26" name="Virtuoso" />
       <Episode number="14" airdate="2000-02-02" name="Memorial" />
       <Episode number="15" airdate="2000-02-09" name="Tsunkatse" />
-      <Episode number="16" airdate="2000-02-16" name="Collective" />
-      <Episode number="17" airdate="2000-02-23" name="Spirit Folk" />
-      <Episode number="18" airdate="2000-03-01" name="Ashes to Ashes" />
-      <Episode number="19" airdate="2000-03-08" name="Child's Play" />
-      <Episode number="20" airdate="2000-03-15" name="Good Shepherd" />
-      <Episode number="21" airdate="2000-04-19" name="Live Fast and Prosper" />
+      <Episode number="16" airdate="2000-02-16"
+        name="Collective" />
+      <Episode number="17" airdate="2000-02-23"
+        name="Spirit Folk" />
+      <Episode number="18" airdate="2000-03-01"
+        name="Ashes to Ashes" />
+      <Episode number="19" airdate="2000-03-08"
+        name="Child's Play" />
+      <Episode number="20" airdate="2000-03-15"
+        name="Good Shepherd" />
+      <Episode number="21" airdate="2000-04-19"
+        name="Live Fast and Prosper" />
       <Episode number="22" airdate="2000-04-26" name="Muse" />
       <Episode number="23" airdate="2000-05-03" name="Fury" />
       <Episode number="24" airdate="2000-05-10" name="Life Line" />
-      <Episode number="25" airdate="2000-05-17" name="The Haunting of Deck Twelve" />
-      <Episode number="26" airdate="2000-05-24" name="Unimatrix Zero, Part I" />
+      <Episode number="25" airdate="2000-05-17"
+        name="The Haunting of Deck Twelve" />
+      <Episode number="26" airdate="2000-05-24"
+        name="Unimatrix Zero, Part I" />
     </Season>
     <Season number="7">
-      <Episode number="1" airdate="2000-10-04" name="Unimatrix Zero, Part II" />
-      <Episode number="2" airdate="2000-10-11" name="Imperfection" />
+      <Episode number="1" airdate="2000-10-04"
+        name="Unimatrix Zero, Part II" />
+      <Episode number="2" airdate="2000-10-11"
+        name="Imperfection" />
       <Episode number="3" airdate="2000-10-18" name="Drive" />
       <Episode number="4" airdate="2000-10-25" name="Repression" />
-      <Episode number="5" airdate="2000-11-01" name="Critical Care" />
+      <Episode number="5" airdate="2000-11-01"
+        name="Critical Care" />
       <Episode number="6" airdate="2000-11-08" name="Inside Man" />
-      <Episode number="7" airdate="2000-11-15" name="Body and Soul" />
-      <Episode number="8" airdate="2000-11-22" name="Nightingale" />
-      <Episode number="9" airdate="2000-11-29" name="Flesh and Blood" />
-      <Episode number="10" airdate="2000-11-29" name="Flesh and Blood" />
+      <Episode number="7" airdate="2000-11-15"
+        name="Body and Soul" />
+      <Episode number="8" airdate="2000-11-22"
+        name="Nightingale" />
+      <Episode number="9" airdate="2000-11-29"
+        name="Flesh and Blood" />
+      <Episode number="10" airdate="2000-11-29"
+        name="Flesh and Blood" />
       <Episode number="11" airdate="2001-01-17" name="Shattered" />
       <Episode number="12" airdate="2001-01-24" name="Lineage" />
-      <Episode number="13" airdate="2001-01-31" name="Repentance" />
+      <Episode number="13" airdate="2001-01-31"
+        name="Repentance" />
       <Episode number="14" airdate="2001-02-07" name="Prophecy" />
       <Episode number="15" airdate="2001-02-14" name="The Void" />
-      <Episode number="16" airdate="2001-02-21" name="Workforce, Part I" />
-      <Episode number="17" airdate="2001-02-28" name="Workforce, Part II" />
-      <Episode number="18" airdate="2001-03-07" name="Human Error" />
+      <Episode number="16" airdate="2001-02-21"
+        name="Workforce, Part I" />
+      <Episode number="17" airdate="2001-02-28"
+        name="Workforce, Part II" />
+      <Episode number="18" airdate="2001-03-07"
+        name="Human Error" />
       <Episode number="19" airdate="2001-04-11" name="Q2" />
-      <Episode number="20" airdate="2001-04-18" name="Author, Author" />
-      <Episode number="21" airdate="2001-04-25" name="Friendship One" />
-      <Episode number="22" airdate="2001-05-02" name="Natural Law" />
+      <Episode number="20" airdate="2001-04-18"
+        name="Author, Author" />
+      <Episode number="21" airdate="2001-04-25"
+        name="Friendship One" />
+      <Episode number="22" airdate="2001-05-02"
+        name="Natural Law" />
       <Episode number="23" airdate="2001-05-09" name="Homestead" />
-      <Episode number="24" airdate="2001-05-16" name="Renaissance Man" />
+      <Episode number="24" airdate="2001-05-16"
+        name="Renaissance Man" />
       <Episode number="25" airdate="2001-05-23" name="Endgame" />
       <Episode number="26" airdate="2001-05-23" name="Endgame" />
     </Season>
@@ -716,58 +1141,92 @@
     <Season number="1">
       <Episode number="1" airdate="2001-09-26" name="Broken Bow" />
       <Episode number="2" airdate="2001-09-26" name="Broken Bow" />
-      <Episode number="3" airdate="2001-10-03" name="Fight or Flight" />
-      <Episode number="4" airdate="2001-10-10" name="Strange New World" />
+      <Episode number="3" airdate="2001-10-03"
+        name="Fight or Flight" />
+      <Episode number="4" airdate="2001-10-10"
+        name="Strange New World" />
       <Episode number="5" airdate="2001-10-17" name="Unexpected" />
       <Episode number="6" airdate="2001-10-24" name="Terra Nova" />
-      <Episode number="7" airdate="2001-10-31" name="The Andorian Incident" />
-      <Episode number="8" airdate="2001-11-07" name="Breaking the Ice" />
-      <Episode number="9" airdate="2001-11-14" name="Civilization" />
-      <Episode number="10" airdate="2001-11-21" name="Fortunate Son" />
-      <Episode number="11" airdate="2001-11-28" name="Cold Front" />
-      <Episode number="12" airdate="2002-01-16" name="Silent Enemy" />
-      <Episode number="13" airdate="2002-01-23" name="Dear Doctor" />
-      <Episode number="14" airdate="2002-01-30" name="Sleeping Dogs" />
-      <Episode number="15" airdate="2002-02-06" name="Shadows of P'Jem" />
-      <Episode number="16" airdate="2002-02-13" name="Shuttlepod One" />
+      <Episode number="7" airdate="2001-10-31"
+        name="The Andorian Incident" />
+      <Episode number="8" airdate="2001-11-07"
+        name="Breaking the Ice" />
+      <Episode number="9" airdate="2001-11-14"
+        name="Civilization" />
+      <Episode number="10" airdate="2001-11-21"
+        name="Fortunate Son" />
+      <Episode number="11" airdate="2001-11-28"
+        name="Cold Front" />
+      <Episode number="12" airdate="2002-01-16"
+        name="Silent Enemy" />
+      <Episode number="13" airdate="2002-01-23"
+        name="Dear Doctor" />
+      <Episode number="14" airdate="2002-01-30"
+        name="Sleeping Dogs" />
+      <Episode number="15" airdate="2002-02-06"
+        name="Shadows of P'Jem" />
+      <Episode number="16" airdate="2002-02-13"
+        name="Shuttlepod One" />
       <Episode number="17" airdate="2002-02-27" name="Fusion" />
-      <Episode number="18" airdate="2002-03-20" name="Rogue Planet" />
-      <Episode number="19" airdate="2002-03-27" name="Acquisition" />
+      <Episode number="18" airdate="2002-03-20"
+        name="Rogue Planet" />
+      <Episode number="19" airdate="2002-03-27"
+        name="Acquisition" />
       <Episode number="20" airdate="2002-04-03" name="Oasis" />
       <Episode number="21" airdate="2002-04-24" name="Detained" />
       <Episode number="22" airdate="2002-05-01" name="Vox Sola" />
-      <Episode number="23" airdate="2002-05-08" name="Fallen Hero" />
-      <Episode number="24" airdate="2002-05-08" name="Desert Crossing" />
-      <Episode number="25" airdate="2002-05-15" name="Two Days and Two Nights" />
-      <Episode number="26" airdate="2002-05-22" name="Shockwave, Part I" />
+      <Episode number="23" airdate="2002-05-08"
+        name="Fallen Hero" />
+      <Episode number="24" airdate="2002-05-08"
+        name="Desert Crossing" />
+      <Episode number="25" airdate="2002-05-15"
+        name="Two Days and Two Nights" />
+      <Episode number="26" airdate="2002-05-22"
+        name="Shockwave, Part I" />
     </Season>
     <Season number="2">
-      <Episode number="1" airdate="2002-09-18" name="Shockwave, Part II" />
-      <Episode number="2" airdate="2002-09-25" name="Carbon Creek" />
+      <Episode number="1" airdate="2002-09-18"
+        name="Shockwave, Part II" />
+      <Episode number="2" airdate="2002-09-25"
+        name="Carbon Creek" />
       <Episode number="3" airdate="2002-10-02" name="Minefield" />
       <Episode number="4" airdate="2002-10-09" name="Dead Stop" />
-      <Episode number="5" airdate="2002-10-16" name="A Night in Sickbay" />
+      <Episode number="5" airdate="2002-10-16"
+        name="A Night in Sickbay" />
       <Episode number="6" airdate="2002-10-30" name="Marauders" />
-      <Episode number="7" airdate="2002-11-06" name="The Seventh" />
-      <Episode number="8" airdate="2002-11-13" name="The Communicator" />
-      <Episode number="9" airdate="2002-11-20" name="Singularity" />
-      <Episode number="10" airdate="2002-11-27" name="Vanishing Point" />
-      <Episode number="11" airdate="2002-12-11" name="Precious Cargo" />
-      <Episode number="12" airdate="2002-12-18" name="The Catwalk" />
+      <Episode number="7" airdate="2002-11-06"
+        name="The Seventh" />
+      <Episode number="8" airdate="2002-11-13"
+        name="The Communicator" />
+      <Episode number="9" airdate="2002-11-20"
+        name="Singularity" />
+      <Episode number="10" airdate="2002-11-27"
+        name="Vanishing Point" />
+      <Episode number="11" airdate="2002-12-11"
+        name="Precious Cargo" />
+      <Episode number="12" airdate="2002-12-18"
+        name="The Catwalk" />
       <Episode number="13" airdate="2003-01-08" name="Dawn" />
       <Episode number="14" airdate="2003-02-05" name="Stigma" />
-      <Episode number="15" airdate="2003-02-12" name="Cease Fire" />
-      <Episode number="16" airdate="2003-02-19" name="Future Tense" />
+      <Episode number="15" airdate="2003-02-12"
+        name="Cease Fire" />
+      <Episode number="16" airdate="2003-02-19"
+        name="Future Tense" />
       <Episode number="17" airdate="2003-02-26" name="Canamar" />
-      <Episode number="18" airdate="2003-04-02" name="The Crossing" />
+      <Episode number="18" airdate="2003-04-02"
+        name="The Crossing" />
       <Episode number="19" airdate="2003-04-09" name="Judgment" />
       <Episode number="20" airdate="2003-04-16" name="Horizon" />
-      <Episode number="21" airdate="2003-04-23" name="The Breach" />
+      <Episode number="21" airdate="2003-04-23"
+        name="The Breach" />
       <Episode number="22" airdate="2003-04-30" name="Cogenitor" />
-      <Episode number="23" airdate="2003-05-07" name="Regeneration" />
-      <Episode number="24" airdate="2003-05-14" name="First Flight" />
+      <Episode number="23" airdate="2003-05-07"
+        name="Regeneration" />
+      <Episode number="24" airdate="2003-05-14"
+        name="First Flight" />
       <Episode number="25" airdate="2003-05-14" name="Bounty" />
-      <Episode number="26" airdate="2003-05-21" name="The Expanse" />
+      <Episode number="26" airdate="2003-05-21"
+        name="The Expanse" />
     </Season>
     <Season number="3">
       <Episode number="1" airdate="2003-09-10" name="The Xindi" />
@@ -776,74 +1235,118 @@
       <Episode number="4" airdate="2003-10-01" name="Rajiin" />
       <Episode number="5" airdate="2003-10-08" name="Impulse" />
       <Episode number="6" airdate="2003-10-15" name="Exile" />
-      <Episode number="7" airdate="2003-10-29" name="The Shipment" />
+      <Episode number="7" airdate="2003-10-29"
+        name="The Shipment" />
       <Episode number="8" airdate="2003-11-05" name="Twilight" />
       <Episode number="9" airdate="2003-11-12" name="North Star" />
-      <Episode number="10" airdate="2003-11-19" name="Similitude" />
-      <Episode number="11" airdate="2003-11-26" name="Carpenter Street" />
-      <Episode number="12" airdate="2004-01-14" name="Chosen Realm" />
-      <Episode number="13" airdate="2004-01-21" name="Proving Ground" />
+      <Episode number="10" airdate="2003-11-19"
+        name="Similitude" />
+      <Episode number="11" airdate="2003-11-26"
+        name="Carpenter Street" />
+      <Episode number="12" airdate="2004-01-14"
+        name="Chosen Realm" />
+      <Episode number="13" airdate="2004-01-21"
+        name="Proving Ground" />
       <Episode number="14" airdate="2004-02-04" name="Stratagem" />
       <Episode number="15" airdate="2004-02-11" name="Harbinger" />
-      <Episode number="16" airdate="2004-02-18" name="Doctor's Orders" />
+      <Episode number="16" airdate="2004-02-18"
+        name="Doctor's Orders" />
       <Episode number="17" airdate="2004-02-25" name="Hatchery" />
-      <Episode number="18" airdate="2004-03-03" name="Azati Prime" />
+      <Episode number="18" airdate="2004-03-03"
+        name="Azati Prime" />
       <Episode number="19" airdate="2004-04-21" name="Damage" />
-      <Episode number="20" airdate="2004-04-28" name="The Forgotten" />
+      <Episode number="20" airdate="2004-04-28"
+        name="The Forgotten" />
       <Episode number="21" airdate="2004-05-05" name="E²" />
-      <Episode number="22" airdate="2004-05-12" name="The Council" />
+      <Episode number="22" airdate="2004-05-12"
+        name="The Council" />
       <Episode number="23" airdate="2004-05-19" name="Countdown" />
       <Episode number="24" airdate="2004-05-26" name="Zero Hour" />
     </Season>
     <Season number="4">
-      <Episode number="1" airdate="2004-10-08" name="Storm Front, Part I" />
-      <Episode number="2" airdate="2004-10-15" name="Storm Front, Part II" />
+      <Episode number="1" airdate="2004-10-08"
+        name="Storm Front, Part I" />
+      <Episode number="2" airdate="2004-10-15"
+        name="Storm Front, Part II" />
       <Episode number="3" airdate="2004-10-22" name="Home" />
       <Episode number="4" airdate="2004-10-29" name="Borderland" />
-      <Episode number="5" airdate="2004-11-05" name="Cold Station 12" />
-      <Episode number="6" airdate="2004-11-12" name="The Augments" />
+      <Episode number="5" airdate="2004-11-05"
+        name="Cold Station 12" />
+      <Episode number="6" airdate="2004-11-12"
+        name="The Augments" />
       <Episode number="7" airdate="2004-11-19" name="The Forge" />
       <Episode number="8" airdate="2004-11-26" name="Awakening" />
       <Episode number="9" airdate="2004-12-03" name="Kir'Shara" />
       <Episode number="10" airdate="2005-01-14" name="Daedalus" />
-      <Episode number="11" airdate="2005-01-21" name="Observer Effect" />
+      <Episode number="11" airdate="2005-01-21"
+        name="Observer Effect" />
       <Episode number="12" airdate="2005-01-28" name="Babel One" />
       <Episode number="13" airdate="2005-02-04" name="United" />
       <Episode number="14" airdate="2005-02-11" name="The Aenar" />
-      <Episode number="15" airdate="2005-02-18" name="Affliction" />
-      <Episode number="16" airdate="2005-02-25" name="Divergence" />
+      <Episode number="15" airdate="2005-02-18"
+        name="Affliction" />
+      <Episode number="16" airdate="2005-02-25"
+        name="Divergence" />
       <Episode number="17" airdate="2005-04-15" name="Bound" />
-      <Episode number="18" airdate="2005-04-22" name="In a Mirror, Darkly, Part I" />
+      <Episode number="18" airdate="2005-04-22"
+        name="In a Mirror, Darkly, Part I" />
       <Episode number="19" airdate="2005-04-29"
         name="In a Mirror, Darkly, Part II" />
       <Episode number="20" airdate="2005-05-06" name="Demons" />
-      <Episode number="21" airdate="2005-05-13" name="Terra Prime" />
-      <Episode number="22" airdate="2005-05-13" name="These Are the Voyages..." />
+      <Episode number="21" airdate="2005-05-13"
+        name="Terra Prime" />
+      <Episode number="22" airdate="2005-05-13"
+        name="These Are the Voyages..." />
     </Season>
   </Series>
 
   <Series code="DIS" name="Discovery">
     <Season number="1">
-      <Episode number="1" airdate="2017-09-24" name="The Vulcan Hello" />
-      <Episode number="2" airdate="2017-09-24" name="Battle at the Binary Stars" />
-      <Episode number="3" airdate="2017-10-01" name="Context Is for Kings" />
+      <Episode number="1" airdate="2017-09-24"
+        name="The Vulcan Hello" />
+      <Episode number="2" airdate="2017-09-24"
+        name="Battle at the Binary Stars" />
+      <Episode number="3" airdate="2017-10-01"
+        name="Context Is for Kings" />
       <Episode number="4" airdate="2017-10-08"
         name="The Butcher's Knife Cares Not for the Lamb's Cry" />
-      <Episode number="5" airdate="2017-10-15" name="Choose Your Pain" />
+      <Episode number="5" airdate="2017-10-15"
+        name="Choose Your Pain" />
       <Episode number="6" airdate="2017-10-22" name="Lethe" />
       <Episode number="7" airdate="2017-10-29"
         name="Magic to Make the Sanest Man Go Mad" />
-      <Episode number="8" airdate="2017-11-05" name="Si Vis Pacem, Para Bellum" />
-      <Episode number="9" airdate="2017-11-12" name="Into the Forest I Go" />
-      <Episode number="10" airdate="2018-01-07" name="Despite Yourself" />
-      <Episode number="11" airdate="2018-01-14" name="The Wolf Inside" />
-      <Episode number="12" airdate="2018-01-21" name="Vaulting Ambition" />
-      <Episode number="13" airdate="2018-01-28" name="What's Past is Prologue" />
+      <Episode number="8" airdate="2017-11-05"
+        name="Si Vis Pacem, Para Bellum" />
+      <Episode number="9" airdate="2017-11-12"
+        name="Into the Forest I Go" />
+      <Episode number="10" airdate="2018-01-07"
+        name="Despite Yourself" />
+      <Episode number="11" airdate="2018-01-14"
+        name="The Wolf Inside" />
+      <Episode number="12" airdate="2018-01-21"
+        name="Vaulting Ambition" />
+      <Episode number="13" airdate="2018-01-28"
+        name="What's Past is Prologue" />
       <Episode number="14" airdate="2018-02-04"
         name="The War Without, The War Within" />
-      <Episode number="15" airdate="2018-02-11" name="Will You Take My Hand?" />
+      <Episode number="15" airdate="2018-02-11"
+        name="Will You Take My Hand?" />
     </Season>
-    <Season number="2" />
+    <Season number="2">
+      <Episode number="1" airdate="2019-01-17" name="Brother" />
+      <Episode number="2" airdate="2019-01-24" name="New Eden" />
+    </Season>
+  </Series>
+
+  <Series code="ST" name="Short Treks">
+    <Season number="1">
+      <Episode number="1" airdate="2018-10-04" name="Runaway" />
+      <Episode number="2" airdate="2018-11-08" name="Calypso" />
+      <Episode number="3" airdate="2018-12-06"
+        name="The Brightest Star" />
+      <Episode number="4" airdate="2019-01-03"
+        name="The Escape Artist" />
+    </Season>
   </Series>
 
 </StarTrek>
