@@ -1339,10 +1339,14 @@
         name="Point of Light" />
       <Episode number="4" airdate="2019-02-07"
         name="An Obol for Charon" />
-      <Episode number="5" airdate="2019-02-14"
-        name="Saints of Imperfection" />
-      <Episode number="6" airdate="2019-02-21"
-        name="The Sounds of Thunder" />
+      <Episode number="5" airdate="2019-02-14" name="Saints of Imperfection" />
+      <Episode number="6" airdate="2019-02-21" name="The Sounds of Thunder" />
+      <Episode number="7" airdate="2019-02-28" name="Lights and Shadows" />
+      <Episode number="8" airdate="2019-03-07" name="If Memory Serves" />    
+      <Episode number="9" airdate="2019-03-14" name="Project Daedalus" />    
+      <Episode number="10" airdate="2019-03-21" name="The Red Angel" />    
+      <Episode number="11" airdate="2019-03-28" name="Perpetiual Infinity" />
+    
     </Season>
   </Series>
 
