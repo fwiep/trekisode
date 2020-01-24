@@ -849,4 +849,11 @@
       <Episode number="6" airdate="2020-01-09" name="Children of Mars" />
     </Season>
   </Series>
+  <Series code="STP" name="Picard">
+    <Season number="1">
+      <Episode number="1" airdate="2020-01-23" name="Remembrance" />
+      <Episode number="2" airdate="2020-01-30" name="Maps and Legends" />
+      <Episode number="3" airdate="2020-02-06" name="The End is the Beginning" />
+    </Season>
+  </Series>
 </StarTrek>
