@@ -832,6 +832,21 @@
       <Episode number="13" airdate="2019-04-11" name="Such Sweet Sorrow, Part I" />
       <Episode number="14" airdate="2019-04-18" name="Such Sweet Sorrow, Part II" />
     </Season>
+    <Season number="3">
+		<Episode number="1" airdate="2020-10-15" name="That Hope Is You, Part I" />
+		<Episode number="2" airdate="2020-10-22" name="Far From Home" />
+		<Episode number="3" airdate="2020-10-29" name="People of Earth" />
+		<Episode number="4" airdate="2020-11-05" name="Forget Me Not" />
+		<Episode number="5" airdate="2020-11-12" name="Die Trying" />
+		<Episode number="6" airdate="2020-11-19" name="Scavengers" />
+		<Episode number="7" airdate="2020-11-26" name="Unification III" />
+		<Episode number="8" airdate="2020-12-03" name="The Sanctuary" />
+		<Episode number="9" airdate="2020-12-10" name="Terra Firma, Part I" />
+		<Episode number="10" airdate="2020-12-17" name="Terra Firma, Part II" />
+		<Episode number="11" airdate="2020-12-24" name="The Citadel" />
+		<Episode number="12" airdate="2020-12-31" name="The Good of the People" />
+		<Episode number="13" airdate="2021-01-07" name="Outside" />
+    </Season>
   </Series>
   <Series code="ST" name="Short Treks">
     <Season number="1">
