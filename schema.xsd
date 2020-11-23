@@ -84,7 +84,7 @@
       <xs:enumeration value="ENT" />
       <xs:enumeration value="DIS" />
       <xs:enumeration value="ST" />
-      <xs:enumeration value="STP" />
+      <xs:enumeration value="PIC" />
     </xs:restriction>
   </xs:simpleType>
 
