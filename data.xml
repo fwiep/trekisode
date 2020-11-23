@@ -878,4 +878,18 @@
       <Episode number="10" airdate="2020-03-26" name="Et in Arcadia Ego, Part II" />
     </Season>
   </Series>
-</StarTrek>
+  <Series code="LD" name="Lower Decks">
+    <Season number="1">
+      <Episode number="1" airdate="2020-08-06" name="Second Contact" />
+      <Episode number="2" airdate="2020-08-13" name="Envoys" />
+      <Episode number="3" airdate="2020-08-20" name="Temporal Edict" />
+      <Episode number="4" airdate="2020-08-27" name="Moist Vessel" />
+      <Episode number="5" airdate="2020-09-03" name="Cupid's Errant Arrow" />
+      <Episode number="6" airdate="2020-09-10" name="Terminal Provocations" />
+      <Episode number="7" airdate="2020-09-17" name="Much Ado About Boimler" />
+      <Episode number="8" airdate="2020-09-24" name="Veritas" />
+      <Episode number="9" airdate="2020-10-01" name="Crisis Point" />
+      <Episode number="10" airdate="2020-10-08" name="No Small Parts" />
+    </Season>
+  </Series>
+</StarTrek> 
