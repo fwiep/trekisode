@@ -877,6 +877,12 @@
       <Episode number="9" airdate="2020-03-19" name="Et in Arcadia Ego, Part I" />
       <Episode number="10" airdate="2020-03-26" name="Et in Arcadia Ego, Part II" />
     </Season>
+    <Season number="4">
+      <Episode number="1" airdate="2021-11-18" name="Kobayashi Maru" />
+      <Episode number="2" airdate="2021-11-25" name="Anomaly" />
+      <Episode number="3" airdate="2021-12-02" name="Choose to Live" />
+      <Episode number="4" airdate="2021-12-09" name="All Is Possible" />
+    </Season>
   </Series>
   <Series code="LD" name="Lower Decks">
     <Season number="1">
