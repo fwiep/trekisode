@@ -884,6 +884,7 @@
       <Episode number="4" airdate="2021-12-09" name="All Is Possible" />
       <Episode number="5" airdate="2021-12-16" name="The Examples" />
       <Episode number="6" airdate="2021-12-23" name="Stormy Weather" />
+      <Episode number="7" airdate="2021-12-30" name="...But to Connect" />
     </Season>
   </Series>
   <Series code="LD" name="Lower Decks">
@@ -910,6 +911,15 @@
       <Episode number="8" airdate="2021-09-30" name="I, Excretus" />
       <Episode number="9" airdate="2021-10-07" name="wej Duj" />
       <Episode number="10" airdate="2020-10-14" name="First First Contact" />
+    </Season>
+  </Series>
+  <Series code="PRD" name="Prodigy">
+    <Season number="1">
+      <Episode number="1" airdate="2021-10-28" name="Lost and Found, Part I" />
+      <Episode number="2" airdate="2021-10-28" name="Lost and Found, Part II" />
+      <Episode number="3" airdate="2021-11-04" name="Starstruck" />
+      <Episode number="4" airdate="2021-11-11" name="Dream Catcher" />
+      <Episode number="5" airdate="2021-11-18" name="Terra Firma" />
     </Season>
   </Series>
 </StarTrek> 
