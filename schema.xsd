@@ -86,7 +86,7 @@
       <xs:enumeration value="ST" />
       <xs:enumeration value="PIC" />
       <xs:enumeration value="LD" />
-      <xs:enumeration value="PRD" />
+      <xs:enumeration value="PRO" />
     </xs:restriction>
   </xs:simpleType>
 
