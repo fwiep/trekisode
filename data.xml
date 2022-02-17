@@ -856,6 +856,7 @@
 		<Episode number="6" airdate="2021-12-23" name="Stormy Weather" />
 		<Episode number="7" airdate="2021-12-30" name="...But To Connect" />
 		<Episode number="8" airdate="2022-02-10" name="All In" />
+		<Episode number="9" airdate="2022-02-17" name="Rubicon" />
     </Season>
   </Series>
   <Series code="ST" name="Short Treks">
@@ -886,15 +887,6 @@
       <Episode number="8" airdate="2020-03-12" name="Broken Pieces" />
       <Episode number="9" airdate="2020-03-19" name="Et in Arcadia Ego, Part I" />
       <Episode number="10" airdate="2020-03-26" name="Et in Arcadia Ego, Part II" />
-    </Season>
-    <Season number="4">
-      <Episode number="1" airdate="2021-11-18" name="Kobayashi Maru" />
-      <Episode number="2" airdate="2021-11-25" name="Anomaly" />
-      <Episode number="3" airdate="2021-12-02" name="Choose to Live" />
-      <Episode number="4" airdate="2021-12-09" name="All Is Possible" />
-      <Episode number="5" airdate="2021-12-16" name="The Examples" />
-      <Episode number="6" airdate="2021-12-23" name="Stormy Weather" />
-      <Episode number="7" airdate="2021-12-30" name="...But to Connect" />
     </Season>
   </Series>
   <Series code="LD" name="Lower Decks">
