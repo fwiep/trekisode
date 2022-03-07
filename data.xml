@@ -890,6 +890,10 @@
       <Episode number="9" airdate="2020-03-19" name="Et in Arcadia Ego, Part I" />
       <Episode number="10" airdate="2020-03-26" name="Et in Arcadia Ego, Part II" />
     </Season>
+    <Season number="2">
+      <Episode number="1" airdate="2022-03-03" name="The Star Gazer" />
+      <Episode number="2" airdate="2022-03-10" name="Penance" />
+    </Season>
   </Series>
   <Series code="LD" name="Lower Decks">
     <Season number="1">
