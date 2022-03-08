@@ -934,4 +934,8 @@
       <Episode number="9" airdate="2022-01-27" name="A Moral Star, Part I" />
     </Season>
   </Series>
+  <Series code="SNW" name="Strange New Worlds">
+    <Season number="1">
+    </Season>
+  </Series>
 </StarTrek> 

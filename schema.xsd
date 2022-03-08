@@ -10,7 +10,7 @@
 
   <xs:complexType name="TypeStarTrek">
     <xs:sequence>
-      <xs:element maxOccurs="11" minOccurs="11" name="Series"
+      <xs:element maxOccurs="12" minOccurs="12" name="Series"
         type="TypeSeries">
         <xs:unique name="uniqueSeasonNumber">
           <xs:selector xpath="./Season" />
@@ -87,6 +87,7 @@
       <xs:enumeration value="PIC" />
       <xs:enumeration value="LD" />
       <xs:enumeration value="PRO" />
+      <xs:enumeration value="SNW" />
     </xs:restriction>
   </xs:simpleType>
 
