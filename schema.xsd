@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="https://github.com/fwiep/trekisode" xmlns:t="https://github.com/fwiep/trekisode" elementFormDefault="qualified">
 
-  <xs:element name="StarTrek" type="TypeStarTrek">
+  <xs:element name="StarTrek" type="t:TypeStarTrek">
     <xs:unique name="uniqueSeries">
       <xs:selector xpath="./Series" />
       <xs:field xpath="@code" />
@@ -10,8 +10,7 @@
 
   <xs:complexType name="TypeStarTrek">
     <xs:sequence>
-      <xs:element maxOccurs="12" minOccurs="12" name="Series"
-        type="TypeSeries">
+      <xs:element maxOccurs="12" minOccurs="12" name="Series" type="t:TypeSeries">
         <xs:unique name="uniqueSeasonNumber">
           <xs:selector xpath="./Season" />
           <xs:field xpath="@number" />
@@ -22,8 +21,7 @@
 
   <xs:complexType name="TypeSeries">
     <xs:sequence>
-      <xs:element maxOccurs="7" minOccurs="1" name="Season"
-        type="TypeSeason">
+      <xs:element maxOccurs="7" minOccurs="1" name="Season" type="t:TypeSeason">
         <xs:unique name="uniqueEpisodeNumber">
           <xs:selector xpath="./Episode" />
           <xs:field xpath="@number" />
@@ -31,23 +29,21 @@
       </xs:element>
     </xs:sequence>
 
-    <xs:attribute name="code" type="SeriesCode" use="required" />
-    <xs:attribute name="name" type="StringNonEmpty" use="required" />
+    <xs:attribute name="code" type="t:SeriesCode" use="required" />
+    <xs:attribute name="name" type="t:StringNonEmpty" use="required" />
   </xs:complexType>
 
   <xs:complexType name="TypeSeason">
     <xs:sequence>
-      <xs:element maxOccurs="30" minOccurs="0" name="Episode"
-        type="TypeEpisode">
-      </xs:element>
+      <xs:element maxOccurs="30" minOccurs="0" name="Episode" type="t:TypeEpisode"></xs:element>
     </xs:sequence>
-    <xs:attribute name="number" type="SeasonNumber" use="required" />
+    <xs:attribute name="number" type="t:SeasonNumber" use="required" />
   </xs:complexType>
 
   <xs:complexType name="TypeEpisode">
-    <xs:attribute name="number" type="EpisodeNumber" use="required" />
-    <xs:attribute name="airdate" type="DateEmpty" use="required" />
-    <xs:attribute name="name" type="StringNonEmpty" use="required" />
+    <xs:attribute name="number" type="t:EpisodeNumber" use="required" />
+    <xs:attribute name="airdate" type="t:DateEmpty" use="required" />
+    <xs:attribute name="name" type="t:StringNonEmpty" use="required" />
   </xs:complexType>
 
   <xs:simpleType name="StringNonEmpty">
@@ -57,7 +53,7 @@
   </xs:simpleType>
 
   <xs:simpleType name="DateEmpty">
-    <xs:union memberTypes="Empty xs:date" />
+    <xs:union memberTypes="t:Empty xs:date" />
   </xs:simpleType>
 
   <xs:simpleType name="EpisodeNumber">

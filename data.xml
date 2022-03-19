@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<StarTrek xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="schema.xsd" xmlns="">
+<StarTrek xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://github.com/fwiep/trekisode" xsi:schemaLocation="https://github.com/fwiep/trekisode schema.xsd
+                                                                                                                               https://github.com/fwiep/trekisode https://raw.githubusercontent.com/fwiep/trekisode/main/schema.xsd">
+
   <Series code="TOS" name="The Original Series">
     <Season number="1">
       <Episode number="0" airdate="1988-10-04" name="The Cage" />
@@ -88,6 +90,7 @@
       <Episode number="24" airdate="1969-06-03" name="Turnabout Intruder" />
     </Season>
   </Series>
+
   <Series code="TAS" name="The Animated Series">
     <Season number="1">
       <Episode number="1" airdate="1973-09-08" name="Beyond the Farthest Star" />
@@ -116,6 +119,7 @@
       <Episode number="6" airdate="1974-10-12" name="The Counter-Clock Incident" />
     </Season>
   </Series>
+
   <Series code="TNG" name="The Next Generation">
     <Season number="1">
       <Episode number="1" airdate="1987-09-28" name="Encounter at Farpoint, Part I" />
@@ -310,6 +314,7 @@
       <Episode number="26" airdate="1994-05-23" name="All Good Things..." />
     </Season>
   </Series>
+
   <Series code="DS9" name="Deep Space 9">
     <Season number="1">
       <Episode number="1" airdate="1993-01-03" name="Emissary" />
@@ -502,6 +507,7 @@
       <Episode number="26" airdate="1999-06-02" name="What You Leave Behind" />
     </Season>
   </Series>
+
   <Series code="VOY" name="Voyager">
     <Season number="1">
       <Episode number="1" airdate="1995-01-16" name="Caretaker" />
@@ -690,6 +696,7 @@
       <Episode number="26" airdate="2001-05-23" name="Endgame" />
     </Season>
   </Series>
+
   <Series code="ENT" name="Enterprise">
     <Season number="1">
       <Episode number="1" airdate="2001-09-26" name="Broken Bow" />
@@ -798,6 +805,7 @@
       <Episode number="22" airdate="2005-05-13" name="These Are the Voyages..." />
     </Season>
   </Series>
+
   <Series code="DIS" name="Discovery">
     <Season number="1">
       <Episode number="1" airdate="2017-09-24" name="The Vulcan Hello" />
@@ -833,36 +841,37 @@
       <Episode number="14" airdate="2019-04-18" name="Such Sweet Sorrow, Part II" />
     </Season>
     <Season number="3">
-        <Episode number="1" airdate="2020-10-15" name="That Hope Is You, Part I" />
-        <Episode number="2" airdate="2020-10-22" name="Far From Home" />
-        <Episode number="3" airdate="2020-10-29" name="People of Earth" />
-        <Episode number="4" airdate="2020-11-05" name="Forget Me Not" />
-        <Episode number="5" airdate="2020-11-12" name="Die Trying" />
-        <Episode number="6" airdate="2020-11-19" name="Scavengers" />
-        <Episode number="7" airdate="2020-11-26" name="Unification III" />
-        <Episode number="8" airdate="2020-12-03" name="The Sanctuary" />
-        <Episode number="9" airdate="2020-12-10" name="Terra Firma, Part I" />
-        <Episode number="10" airdate="2020-12-17" name="Terra Firma, Part II" />
-        <Episode number="11" airdate="2020-12-24" name="Su'Kal" />
-        <Episode number="12" airdate="2020-12-31" name="There Is A Tide..." />
-        <Episode number="13" airdate="2021-01-07" name="That Hope Is You, Part II" />
+      <Episode number="1" airdate="2020-10-15" name="That Hope Is You, Part I" />
+      <Episode number="2" airdate="2020-10-22" name="Far From Home" />
+      <Episode number="3" airdate="2020-10-29" name="People of Earth" />
+      <Episode number="4" airdate="2020-11-05" name="Forget Me Not" />
+      <Episode number="5" airdate="2020-11-12" name="Die Trying" />
+      <Episode number="6" airdate="2020-11-19" name="Scavengers" />
+      <Episode number="7" airdate="2020-11-26" name="Unification III" />
+      <Episode number="8" airdate="2020-12-03" name="The Sanctuary" />
+      <Episode number="9" airdate="2020-12-10" name="Terra Firma, Part I" />
+      <Episode number="10" airdate="2020-12-17" name="Terra Firma, Part II" />
+      <Episode number="11" airdate="2020-12-24" name="Su'Kal" />
+      <Episode number="12" airdate="2020-12-31" name="There Is A Tide..." />
+      <Episode number="13" airdate="2021-01-07" name="That Hope Is You, Part II" />
     </Season>
     <Season number="4">
-        <Episode number="1" airdate="2021-11-18" name="Kobayashi Maru" />
-        <Episode number="2" airdate="2021-11-25" name="Anomaly" />
-        <Episode number="3" airdate="2021-12-02" name="Choose To Live" />
-        <Episode number="4" airdate="2021-12-09" name="All Is Possible" />
-        <Episode number="5" airdate="2021-12-16" name="The Examples" />
-        <Episode number="6" airdate="2021-12-23" name="Stormy Weather" />
-        <Episode number="7" airdate="2021-12-30" name="...But To Connect" />
-        <Episode number="8" airdate="2022-02-10" name="All In" />
-        <Episode number="9" airdate="2022-02-17" name="Rubicon" />
-        <Episode number="10" airdate="2022-02-24" name="The Galactic Barrier" />
-        <Episode number="11" airdate="2022-03-03" name="Rosetta" />
-        <Episode number="12" airdate="2022-03-10" name="Species Ten-C" />
-        <Episode number="13" airdate="2022-03-17" name="Coming Home" />
+      <Episode number="1" airdate="2021-11-18" name="Kobayashi Maru" />
+      <Episode number="2" airdate="2021-11-25" name="Anomaly" />
+      <Episode number="3" airdate="2021-12-02" name="Choose To Live" />
+      <Episode number="4" airdate="2021-12-09" name="All Is Possible" />
+      <Episode number="5" airdate="2021-12-16" name="The Examples" />
+      <Episode number="6" airdate="2021-12-23" name="Stormy Weather" />
+      <Episode number="7" airdate="2021-12-30" name="...But To Connect" />
+      <Episode number="8" airdate="2022-02-10" name="All In" />
+      <Episode number="9" airdate="2022-02-17" name="Rubicon" />
+      <Episode number="10" airdate="2022-02-24" name="The Galactic Barrier" />
+      <Episode number="11" airdate="2022-03-03" name="Rosetta" />
+      <Episode number="12" airdate="2022-03-10" name="Species Ten-C" />
+      <Episode number="13" airdate="2022-03-17" name="Coming Home" />
     </Season>
   </Series>
+
   <Series code="ST" name="Short Treks">
     <Season number="1">
       <Episode number="1" airdate="2018-10-04" name="Runaway" />
@@ -879,6 +888,7 @@
       <Episode number="6" airdate="2020-01-09" name="Children of Mars" />
     </Season>
   </Series>
+
   <Series code="PIC" name="Picard">
     <Season number="1">
       <Episode number="1" airdate="2020-01-23" name="Remembrance" />
@@ -898,6 +908,7 @@
       <Episode number="3" airdate="2022-03-17" name="Assimilation" />
     </Season>
   </Series>
+
   <Series code="LD" name="Lower Decks">
     <Season number="1">
       <Episode number="1" airdate="2020-08-06" name="Second Contact" />
@@ -924,6 +935,7 @@
       <Episode number="10" airdate="2020-10-14" name="First First Contact" />
     </Season>
   </Series>
+
   <Series code="PRO" name="Prodigy">
     <Season number="1">
       <Episode number="1" airdate="2021-10-28" name="Lost and Found, Part I" />
@@ -937,8 +949,9 @@
       <Episode number="9" airdate="2022-01-27" name="A Moral Star, Part I" />
     </Season>
   </Series>
+
   <Series code="SNW" name="Strange New Worlds">
-    <Season number="1">
-    </Season>
+    <Season number="1"></Season>
   </Series>
+
 </StarTrek> 
