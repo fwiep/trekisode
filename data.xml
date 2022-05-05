@@ -958,7 +958,9 @@
   </Series>
 
   <Series code="SNW" name="Strange New Worlds">
-    <Season number="1"></Season>
+    <Season number="1">
+        <Episode number="1" airdate="2022-05-05" name="Strange New Worlds" />
+    </Season>
   </Series>
 
 </StarTrek> 
