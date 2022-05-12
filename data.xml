@@ -960,6 +960,8 @@
   <Series code="SNW" name="Strange New Worlds">
     <Season number="1">
         <Episode number="1" airdate="2022-05-05" name="Strange New Worlds" />
+        <Episode number="2" airdate="2022-05-12" name="Children of the Comet" />
+        <Episode number="3" airdate="2022-05-19" name="Ghosts of Illyria" />
     </Season>
   </Series>
 
