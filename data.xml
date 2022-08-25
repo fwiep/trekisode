@@ -941,6 +941,10 @@
       <Episode number="9" airdate="2021-10-07" name="wej Duj" />
       <Episode number="10" airdate="2020-10-14" name="First First Contact" />
     </Season>
+    <Season number="3">
+      <Episode number="1" airdate="2022-08-25" name="Grounded" />
+      <Episode number="2" airdate="2021-09-01" name="The Least Dangerous Game" />
+    </Season>
   </Series>
 
   <Series code="PRO" name="Prodigy">
