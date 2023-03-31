@@ -3,7 +3,7 @@
 
   <xs:element name="StarTrek" type="t:TypeStarTrek">
     <xs:unique name="uniqueSeries">
-      <xs:selector xpath="./Series" />
+      <xs:selector xpath="t:Series" />
       <xs:field xpath="@code" />
     </xs:unique>
   </xs:element>
@@ -12,7 +12,7 @@
     <xs:sequence>
       <xs:element maxOccurs="12" minOccurs="12" name="Series" type="t:TypeSeries">
         <xs:unique name="uniqueSeasonNumber">
-          <xs:selector xpath="./Season" />
+          <xs:selector xpath="t:Season" />
           <xs:field xpath="@number" />
         </xs:unique>
       </xs:element>
@@ -23,7 +23,7 @@
     <xs:sequence>
       <xs:element maxOccurs="7" minOccurs="1" name="Season" type="t:TypeSeason">
         <xs:unique name="uniqueEpisodeNumber">
-          <xs:selector xpath="./Episode" />
+          <xs:selector xpath="t:Episode" />
           <xs:field xpath="@number" />
         </xs:unique>
       </xs:element>
