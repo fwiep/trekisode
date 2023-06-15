@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<StarTrek xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://github.com/fwiep/trekisode" xsi:schemaLocation="https://github.com/fwiep/trekisode schema.xsd
-                                                                                                                               https://github.com/fwiep/trekisode https://raw.githubusercontent.com/fwiep/trekisode/main/schema.xsd">
+<StarTrek xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="https://github.com/fwiep/trekisode"
+  xsi:schemaLocation="https://github.com/fwiep/trekisode schema.xsd
+                      https://github.com/fwiep/trekisode https://raw.githubusercontent.com/fwiep/trekisode/main/schema.xsd">
 
   <Series code="TOS" name="The Original Series">
     <Season number="1">
@@ -73,7 +75,8 @@
       <Episode number="7" airdate="1968-10-18" name="Is There in Truth No Beauty?" />
       <Episode number="8" airdate="1968-12-06" name="The Empath" />
       <Episode number="9" airdate="1968-11-15" name="The Tholian Web" />
-      <Episode number="10" airdate="1968-11-08" name="For the World is Hollow and I Have Touched the Sky" />
+      <Episode number="10" airdate="1968-11-08"
+        name="For the World is Hollow and I Have Touched the Sky" />
       <Episode number="11" airdate="1968-11-01" name="Day of the Dove" />
       <Episode number="12" airdate="1968-11-22" name="Plato's Stepchildren" />
       <Episode number="13" airdate="1968-11-29" name="Wink of an Eye" />
@@ -811,7 +814,8 @@
       <Episode number="1" airdate="2017-09-24" name="The Vulcan Hello" />
       <Episode number="2" airdate="2017-09-24" name="Battle at the Binary Stars" />
       <Episode number="3" airdate="2017-10-01" name="Context Is for Kings" />
-      <Episode number="4" airdate="2017-10-08" name="The Butcher's Knife Cares Not for the Lamb's Cry" />
+      <Episode number="4" airdate="2017-10-08"
+        name="The Butcher's Knife Cares Not for the Lamb's Cry" />
       <Episode number="5" airdate="2017-10-15" name="Choose Your Pain" />
       <Episode number="6" airdate="2017-10-22" name="Lethe" />
       <Episode number="7" airdate="2017-10-29" name="Magic to Make the Sanest Man Go Mad" />
@@ -915,16 +919,16 @@
       <Episode number="10" airdate="2022-05-05" name="Farewell" />
     </Season>
     <Season number="3">
-        <Episode number="1" airdate="2023-02-16" name="The Next Generation" />
-        <Episode number="2" airdate="2023-02-23" name="Disengage" />
-        <Episode number="3" airdate="2023-03-02" name="Seventeen Seconds" />
-        <Episode number="4" airdate="2023-03-09" name="No Win Scenario" />
-        <Episode number="5" airdate="2023-03-16" name="Imposters" />
-        <Episode number="6" airdate="2023-03-23" name="The Bounty" />
-        <Episode number="7" airdate="2023-03-30" name="Dominion" />
-        <Episode number="8" airdate="2023-04-06" name="Surrender" />
-        <Episode number="9" airdate="2023-04-13" name="Võx" />
-        <Episode number="10" airdate="2023-04-20" name="The Last Generation" />
+      <Episode number="1" airdate="2023-02-16" name="The Next Generation" />
+      <Episode number="2" airdate="2023-02-23" name="Disengage" />
+      <Episode number="3" airdate="2023-03-02" name="Seventeen Seconds" />
+      <Episode number="4" airdate="2023-03-09" name="No Win Scenario" />
+      <Episode number="5" airdate="2023-03-16" name="Imposters" />
+      <Episode number="6" airdate="2023-03-23" name="The Bounty" />
+      <Episode number="7" airdate="2023-03-30" name="Dominion" />
+      <Episode number="8" airdate="2023-04-06" name="Surrender" />
+      <Episode number="9" airdate="2023-04-13" name="Võx" />
+      <Episode number="10" airdate="2023-04-20" name="The Last Generation" />
     </Season>
   </Series>
 
@@ -994,16 +998,20 @@
 
   <Series code="SNW" name="Strange New Worlds">
     <Season number="1">
-        <Episode number="1" airdate="2022-05-05" name="Strange New Worlds" />
-        <Episode number="2" airdate="2022-05-12" name="Children of the Comet" />
-        <Episode number="3" airdate="2022-05-19" name="Ghosts of Illyria" />
-        <Episode number="4" airdate="2022-05-26" name="Memento Mori" />
-        <Episode number="5" airdate="2022-06-02" name="Spock Amok" />
-        <Episode number="6" airdate="2022-06-09" name="Lift Us Where Suffering Cannot Reach" />
-        <Episode number="7" airdate="2022-06-16" name="The Serene Squall" />
-        <Episode number="8" airdate="2022-06-23" name="The Elysian Kingdom" />
-        <Episode number="9" airdate="2022-06-30" name="All Those Who Wander" />
-        <Episode number="10" airdate="2022-07-07" name="A Quality of Mercy" />
+      <Episode number="1" airdate="2022-05-05" name="Strange New Worlds" />
+      <Episode number="2" airdate="2022-05-12" name="Children of the Comet" />
+      <Episode number="3" airdate="2022-05-19" name="Ghosts of Illyria" />
+      <Episode number="4" airdate="2022-05-26" name="Memento Mori" />
+      <Episode number="5" airdate="2022-06-02" name="Spock Amok" />
+      <Episode number="6" airdate="2022-06-09" name="Lift Us Where Suffering Cannot Reach" />
+      <Episode number="7" airdate="2022-06-16" name="The Serene Squall" />
+      <Episode number="8" airdate="2022-06-23" name="The Elysian Kingdom" />
+      <Episode number="9" airdate="2022-06-30" name="All Those Who Wander" />
+      <Episode number="10" airdate="2022-07-07" name="A Quality of Mercy" />
+    </Season>
+    <Season number="2">
+      <Episode number="1" airdate="2023-06-15" name="The Broken Circle" />
+      <Episode number="2" airdate="2023-06-22" name="Ad Astra Per Aspera" />
     </Season>
   </Series>
 
