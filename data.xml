@@ -969,6 +969,10 @@
       <Episode number="9" airdate="2022-10-20" name="Trusted Sources" />
       <Episode number="10" airdate="2022-10-27" name="The Stars at Night" />
     </Season>
+    <Season number="4">
+        <Episode number="1" airdate="2023-09-07" name="Twovix" />
+        <Episode number="2" airdate="2023-09-07" name="I Have No Bones Yet I Must Flee" />
+    </Season>
   </Series>
 
   <Series code="PRO" name="Prodigy">
