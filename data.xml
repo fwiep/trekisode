@@ -874,6 +874,18 @@
       <Episode number="12" airdate="2022-03-10" name="Species Ten-C" />
       <Episode number="13" airdate="2022-03-17" name="Coming Home" />
     </Season>
+    <Season number="5">
+      <Episode number="1" airdate="2024-04-04" name="Red Directive" />
+      <Episode number="2" airdate="2024-04-04" name="Under the Twin Moons" />
+      <Episode number="3" airdate="2024-04-11" name="Jinaal" />
+      <Episode number="4" airdate="2024-04-18" name="Face the Strange" />
+      <Episode number="5" airdate="2024-04-25" name="Mirrors" />
+      <Episode number="6" airdate="2024-05-02" name="Whistlespeak" />
+      <Episode number="7" airdate="2024-05-09" name="Erigah" />
+      <Episode number="8" airdate="2024-05-16" name="Labyrinths" />
+      <Episode number="9" airdate="2024-05-23" name="Lagrange Point" />
+      <Episode number="10" airdate="2024-05-30" name="Life, Itself" />
+    </Season>
   </Series>
 
   <Series code="ST" name="Short Treks">
