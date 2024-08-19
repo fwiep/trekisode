@@ -1018,6 +1018,28 @@
       <Episode number="19" airdate="2022-12-22" name="Supernova, Part I" />
       <Episode number="20" airdate="2022-12-29" name="Supernova, Part II" />
     </Season>
+    <Season number="2">
+        <Episode number="1" airdate="2024-07-01" name="Into the Breach, Part I" />
+        <Episode number="2" airdate="2024-07-01" name="Into the Breach, Part II" />
+        <Episode number="3" airdate="2024-07-01" name="Who Saves the Saviors" />
+        <Episode number="4" airdate="2024-07-01" name="Temporal Mechanics 101" />
+        <Episode number="5" airdate="2024-07-01" name="Observer's Paradox" />
+        <Episode number="6" airdate="2024-07-01" name="Imposter Syndrome" />
+        <Episode number="7" airdate="2024-07-01" name="The Fast and the Curious" />
+        <Episode number="8" airdate="2024-07-01" name="Is There in Beauty No Truth?" />
+        <Episode number="9" airdate="2024-07-01" name="The Devourer of All Things, Part I" />
+        <Episode number="10" airdate="2024-07-01" name="The Devourer of All Things, Part II" />
+        <Episode number="11" airdate="2024-07-01" name="Last Flight of the Protostar, Part I" />
+        <Episode number="12" airdate="2024-07-01" name="Last Flight of the Protostar, Part II" />
+        <Episode number="13" airdate="2024-07-01" name="A Tribble Called Quest" />
+        <Episode number="14" airdate="2024-07-01" name="Cracked Mirror" />
+        <Episode number="15" airdate="2024-07-01" name="Ascension, Part I" />
+        <Episode number="16" airdate="2024-07-01" name="Ascension, Part II" />
+        <Episode number="17" airdate="2024-07-01" name="Brink" />
+        <Episode number="18" airdate="2024-07-01" name="Touch of Grey" />
+        <Episode number="19" airdate="2024-07-01" name="Ouroboros, Part I" />
+        <Episode number="20" airdate="2024-07-01" name="Ouroboros, Part II" />
+    </Season>
   </Series>
 
   <Series code="SNW" name="Strange New Worlds">
