@@ -993,6 +993,13 @@
         <Episode number="9" airdate="2023-10-26" name="The Inner Fight" />
         <Episode number="10" airdate="2023-11-02" name="Old Friends, New Planets" />
     </Season>
+    <Season number="5">
+		<Episode number="1" airdate="2024-10-24" name="Dos Cerritos" />
+		<Episode number="2" airdate="2024-10-24" name="Shades of Green" />
+		<Episode number="3" airdate="2024-10-31" name="The Best Exotic Nanite Hotel" />
+		<Episode number="4" airdate="2024-11-07" name="A Farewell To Farms" />
+		<Episode number="5" airdate="2024-11-14" name="Star Base 80?" />
+    </Season>
   </Series>
 
   <Series code="PRO" name="Prodigy">
