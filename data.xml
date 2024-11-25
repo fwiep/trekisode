@@ -1081,4 +1081,14 @@
     </Season>
   </Series>
 
+  <Series code="VST" name="very Short Treks">
+    <Season number="1">
+      <Episode number="1" airdate="2023-09-08" name="Skin a Cat" />
+      <Episode number="2" airdate="2023-09-13" name="Holiday Party" />
+      <Episode number="3" airdate="2023-09-20" name="Worst Contact" />
+      <Episode number="4" airdate="2023-09-27" name="Holograms All the Way Down" />
+      <Episode number="5" airdate="2023-10-04" name="Walk, Don't Run" />
+    </Season>
+  </Series>
+
 </StarTrek> 
