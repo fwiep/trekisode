@@ -1079,6 +1079,18 @@
       <Episode number="9" airdate="2023-08-03" name="Subspace Rhapsody" />
       <Episode number="10" airdate="2023-08-10" name="Hegemony" />
     </Season>
+    <Season number="3">
+      <Episode number="1" airdate="2025-07-17" name="Hegemony, Part II" />
+      <Episode number="2" airdate="2025-07-17" name="Wedding Bell Blues" />
+      <Episode number="3" airdate="2025-07-24" name="Shuttle to Kenfori" />
+      <Episode number="4" airdate="2025-07-31" name="A Space Adventure Hour" />
+      <Episode number="5" airdate="2025-08-07" name="Through the Lens of Time" />
+      <Episode number="6" airdate="2025-08-14" name="The Sehlat Who Ate Its Tail" />
+      <Episode number="7" airdate="2025-08-21" name="What Is Starfleet?" />
+      <Episode number="8" airdate="2025-08-28" name="Four-and-a-Half Vulcans" />
+      <Episode number="9" airdate="2025-09-04" name="Terrarium" />
+      <Episode number="10" airdate="2025-09-11" name="New Life and New Civilizations" />
+    </Season>
   </Series>
 
   <Series code="VST" name="very Short Treks">
